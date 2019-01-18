@@ -1,0 +1,995 @@
+Rank,Year,Artist,Song1,Chart_Year
+1,1956,The Five Satins,In The Still Of The Nite,1979
+2,1977,Elvis Presley,My Way,1979
+3,1959,Bobby Darin,Mack The Knife,1979
+4,1959,Dion And The Belmonts,A Teenager In Love,1979
+5,1968,The Beatles,Hey Jude,1979
+6,1956,Elvis Presley,Love Me Tender,1979
+7,1954,The Penguins,Hey Senorita,1979
+8,1964,The 4 Seasons,Rag Doll,1979
+9,1958,The Skyliners,Since I Don't Have You,1979
+10,1971,Chicago,Beginnings,1979
+11,1957,Elvis Presley,Jailhouse Rock,1979
+12,1957,Johnny Mathis,Chances Are,1979
+13,1966,The 4 Seasons,I've Got You Under My Skin,1979
+14,1977,Debby Boone,You Light Up My Life,1979
+15,1977,Billy Joel,Just The Way You Are,1979
+16,1965,Jay And The Americans,"Cara, Mia",1979
+17,1957,Mello-Kings,"Tonite, Tonite",1979
+18,1956,Elvis Presley,Don't Be Cruel,1979
+19,1961,The Angels,Til,1979
+20,1955,The Platters,The Great Pretender,1979
+21,1966,The Happenings,See You In September,1979
+22,1965,The Beatles,Yesterday,1979
+23,1963,Randy And The Rainbows,Denise,1979
+24,1969,Frank Sinatra,My Way,1979
+25,1961,Elvis Presley,Can't Help Falling In Love,1979
+26,1959,The Flamingos,I Only Have Eyes For You,1979
+27,1964,The 4 Seasons,Dawn (Go Away),1979
+28,1962,The Duprees,You Belong To Me,1979
+29,1978,Village People,Y.M.C.A.,1979
+30,1957,Johnny Mathis,Chances Are,1979
+31,1962,Elvis Presley With The Jordanaires,Return To Sender,1979
+32,1962,The Shirelles,Soldier Boy,1979
+33,1968,Brooklyn Bridge,Worst That Could Happen,1979
+34,1959,Paul Anka,Put Your Head On My Shoulder,1979
+35,1958,The Videos,"Trickle, Trickle",1979
+36,1979,Peaches And Herb,Reunited,1979
+37,1958,Little Anthony And The Imperials,Tears On My Pillow,1979
+38,1965,The Beatles,Help!,1979
+39,1956,Fats Domino,Blueberry Hill,1979
+40,1978,Commodores,Three Times A Lady,1979
+41,1960,The Shirelles,Will You Love Me Tomorrow,1979
+42,1962,The 4 Seasons,Sherry,1979
+43,1970,Elvis Presley,The Wonder Of You,1979
+44,1966,The Association,Cherish,1979
+45,1956,The Platters,My Prayer,1979
+46,1975,Barry Manilow,I Write The Songs,1979
+47,1968,Jay And The Americans,This Magic Moment,1979
+48,1960,Elvis Presley With The Jordanaires,Are You Lonesome To-night?,1979
+49,1962,The Earls,Remember Then,1979
+50,1979,Bee Gees,Tragedy,1979
+1,1956,The Five Satins,The Jones Girl,1979
+2,1977,Elvis Presley,America,1979
+3,1959,Bobby Darin,Was There A Call For Me,1979
+4,1959,Dion And The Belmonts,I've Cried Before,1979
+5,1968,The Beatles,Revolution,1979
+6,1956,Elvis Presley,Anyway You Want Me (That's How I'll Be),1979
+7,1954,The Penguins,Earth Angel,1979
+8,1964,The 4 Seasons,Silence Is Golden,1979
+9,1958,The Skyliners,"One Night, One Night",1979
+10,1971,Chicago,Colour My World,1979
+11,1957,Elvis Presley,Treat Me Nice,1979
+12,1957,Johnny Mathis,The Twelfth Of Never,1979
+13,1966,The 4 Seasons,Huggin' My Pillow,1979
+14,1977,Debby Boone,Hasta Mañana,1979
+15,1977,Billy Joel,Get It Right The First Time,1979
+16,1965,Jay And The Americans,When It's All Over,1979
+17,1957,Mello-Kings,Do Baby Do,1979
+18,1956,Elvis Presley,Hound Dog,1979
+19,1961,The Angels,A Moment Ago,1979
+20,1955,The Platters,I'm Just A Dancing Partner,1979
+21,1966,The Happenings,He Thinks He's A Hero,1979
+22,1965,The Beatles,Act Naturally,1979
+23,1963,Randy And The Rainbows,Come Back,1979
+24,1969,Frank Sinatra,Blue Lace,1979
+25,1961,Elvis Presley,Rock-A-Hula Baby,1979
+26,1959,The Flamingos,Goodnight Sweetheart,1979
+27,1964,The 4 Seasons,No Surfin' Today,1979
+28,1962,The Duprees,Take Me As I Am,1979
+29,1978,Village People,The Women,1979
+30,1957,Johnny Mathis,The Twelfth Of Never,1979
+31,1962,Elvis Presley With The Jordanaires,Where Do You Come From,1979
+32,1962,The Shirelles,Love Is A Swingin' Thing,1979
+33,1968,Brooklyn Bridge,"Your Kite, My Kite.",1979
+34,1959,Paul Anka,Don't Ever Leave Me,1979
+35,1958,The Videos,"Moonglow, You Know",1979
+36,1979,Peaches And Herb,Easy As Pie,1979
+37,1958,Little Anthony And The Imperials,Two People In The World,1979
+38,1965,The Beatles,I'm Down,1979
+39,1956,Fats Domino,Honey Chile,1979
+40,1978,Commodores,Look What You've Done To Me,1979
+41,1960,The Shirelles,Boys,1979
+42,1962,The 4 Seasons,I've Cried Before,1979
+43,1970,Elvis Presley,Mama Liked The Roses,1979
+44,1966,The Association,Don't Blame It On Me,1979
+45,1956,The Platters,Heaven On Earth,1979
+46,1975,Barry Manilow,A Nice Boy Like Me,1979
+47,1968,Jay And The Americans,Since I Don't Have You,1979
+48,1960,Elvis Presley With The Jordanaires,I Gotta Know,1979
+49,1962,The Earls,Let's Waddle,1979
+50,1979,Bee Gees,Until,1979
+51,1961,Dion,Runaround Sue,1979
+52,1976,Engelbert Humperdinck,After The Lovin',1979
+53,1962,The Excellents,Coney Island Baby,1979
+54,1965,The Rolling Stones,(I Can't Get No) Satisfaction,1979
+55,1972,Roberta Flack,The First Time Ever I Saw Your Face,1979
+56,1969,Elvis Presley,Suspicious Minds,1979
+57,1959,The Skyliners,This I Swear,1979
+58,1978,Anne Murray,You Needed Me,1979
+59,1957,Paul Anka,Diana,1979
+60,1955,The Platters,Only You (And You Alone),1979
+61,1978,Donna Summer,Last Dance,1979
+62,1976,Barbra Streisand,"Love Theme From ""A Star Is Born"" (Evergreen)",1979
+63,1961,Chubby Checker,The Twist,1979
+64,1958,Tommy Edwards,It's All In The Game,1979
+65,1967,The Doors,Light My Fire,1979
+66,1958,The Crests,16 Candles,1979
+67,1969,Elvis Presley,Memories,1979
+68,1964,The Supremes,Baby Love,1979
+69,1964,The Drifters,Under The Boardwalk,1979
+70,1979,Blondie,Heart Of Glass,1979
+71,1962,The Duprees,My Own True Love,1979
+72,1978,Barry Manilow,Copacabana (At The Copa) [Long Version],1979
+73,1963,The Beach Boys,Surfer Girl,1979
+74,1970,Diana Ross,Ain't No Mountain High Enough,1979
+75,1961,Dion,The Wanderer,1979
+76,1970,Simon And Garfunkel,Bridge Over Troubled Water,1979
+77,1972,Led Zeppelin,Stairway To Heaven [Mono],1979
+78,1954,Bill Haley And His Comets,Thirteen Women (And Only One Man In Town),1979
+79,1965,The 4 Seasons,Let's Hang On!,1979
+80,1957,Danny And The Juniors,At The Hop,1979
+81,1973,Jim Croce,"Bad, Bad Leroy Brown",1979
+82,1960,"The Chimes [60s, Brooklyn]",Once In Awhile,1979
+83,1958,The Elegants,Little Star,1979
+84,1963,Jan And Dean,Surf City,1979
+85,1963,The Tymes,So Much In Love,1979
+86,1961,The Cleftones,Heart And Soul,1979
+87,1971,Climax,Precious And Few,1979
+88,1963,The Ronettes,Be My Baby,1979
+89,1956,Elvis Presley,Heartbreak Hotel,1979
+90,1958,Jerry Butler And The Impressions,For Your Precious Love,1979
+91,1967,Jefferson Airplane,Somebody To Love,1979
+92,1978,Bee Gees,Too Much Heaven,1979
+93,1960,Elvis Presley With The Jordanaires,It's Now Or Never,1979
+94,1977,Dan Hill,Sometimes When We Touch,1979
+95,1955,The Teenagers Featuring Frankie Lymon,Why Do Fools Fall In Love,1979
+96,1976,Barry Manilow,Weekend In New England,1979
+97,1957,The Dell-Vikings,Whispering Bells,1979
+98,1962,The Drifters,Up On The Roof,1979
+99,1972,Harry Chapin,Taxi,1979
+100,1957,Elvis Presley With The Jordanaires,Loving You,1979
+51,1961,Dion,Runaway Girl,1979
+52,1976,Engelbert Humperdinck,Let's Remember The Good Times,1979
+53,1962,The Excellents,You Baby You,1979
+54,1965,The Rolling Stones,The Under Assistant West Coast Promotion Man,1979
+55,1972,Roberta Flack,Trade Winds,1979
+56,1969,Elvis Presley,You'll Think Of Me,1979
+57,1959,The Skyliners,Tomorrow,1979
+58,1978,Anne Murray,I Still Wish The Very Best For You,1979
+59,1957,Paul Anka,Don't Gamble With Love,1979
+60,1955,The Platters,"Bark, Battle And Ball",1979
+61,1978,Donna Summer,With Your Love,1979
+62,1976,Barbra Streisand,I Believe In Love,1979
+63,1961,Chubby Checker,Twistin' U.S.A.,1979
+64,1958,Tommy Edwards,Please Love Me Forever,1979
+65,1967,The Doors,The Crystal Ship,1979
+66,1958,The Crests,Beside You,1979
+67,1969,Elvis Presley,Charro,1979
+68,1964,The Supremes,Ask Any Girl,1979
+69,1964,The Drifters,I Don't Want To Go On Without You,1979
+70,1979,Blondie,11,1979
+71,1962,The Duprees,Ginny,1979
+72,1978,Barry Manilow,Copacabana (At The Copa) [Short Version],1979
+73,1963,The Beach Boys,Little Deuce Coupe,1979
+74,1970,Diana Ross,Can't It Wait Until Tomorrow,1979
+75,1961,Dion,The Majestic,1979
+76,1970,Simon And Garfunkel,Keep The Customer Satisfied,1979
+77,1972,Led Zeppelin,Stairway To Heaven [Stereo],1979
+78,1954,Bill Haley And His Comets,(We're Gonna) Rock Around The Clock,1979
+79,1965,The 4 Seasons,On Broadway Tonight,1979
+80,1957,Danny And The Juniors,Sometimes (When I'm All Alone),1979
+81,1973,Jim Croce,A Good Time Man Like Me Ain't Got No Business (Singin' The Blues),1979
+82,1960,"The Chimes [60s, Brooklyn]",Summer Night,1979
+83,1958,The Elegants,Getting Dizzy,1979
+84,1963,Jan And Dean,She's My Summer Girl,1979
+85,1963,The Tymes,Roscoe James McClain,1979
+86,1961,The Cleftones,How Do You Feel,1979
+87,1971,Climax,Park Preserve,1979
+88,1963,The Ronettes,Tedesco And Pitman,1979
+89,1956,Elvis Presley,I Was The One,1979
+90,1958,Jerry Butler And The Impressions,Sweet Was The Wine,1979
+91,1967,Jefferson Airplane,She Has Funny Cars,1979
+92,1978,Bee Gees,Rest Your Love On Me,1979
+93,1960,Elvis Presley With The Jordanaires,A Mess Of Blues,1979
+94,1977,Dan Hill,Still Not Used To,1979
+95,1955,The Teenagers Featuring Frankie Lymon,Please Be Mine,1979
+96,1976,Barry Manilow,Say The Words,1979
+97,1957,The Dell-Vikings,Don't Be A Fool,1979
+98,1962,The Drifters,Another Night With The Boys,1979
+99,1972,Harry Chapin,Empty,1979
+100,1957,Elvis Presley With The Jordanaires,(Let Me Be Your) Teddy Bear,1979
+101,1970,Smokey Robinson And The Miracles,The Tears Of A Clown,1979
+102,1970,Neil Diamond,Solitary Man,1979
+103,1957,Buddy Holly,Peggy Sue,1979
+104,1964,The Righteous Brothers,You've Lost That Lovin' Feelin',1979
+105,1963,The Beatles,I Want To Hold Your Hand,1979
+106,1959,The Everly Brothers,Let It Be Me,1979
+107,1962,Shelley Fabares,Johnny Angel,1979
+108,1964,Jan And Dean,The Little Old Lady (From Pasadena),1979
+109,1958,Conway Twitty,It's Only Make Believe,1979
+110,1960,Johnny Burnette,Dreamin',1979
+111,1967,Frankie Valli,Can't Take My Eyes Off You,1979
+112,1971,Bread,If,1979
+113,1956,Elvis Presley,Hound Dog,1979
+114,1958,The Platters,Smoke Gets In Your Eyes,1979
+115,1975,Frankie Valli,Swearin' To God,1979
+116,1969,Neil Diamond,Holly Holy,1979
+117,1958,The Danleers,One Summer Night,1979
+118,1960,Bobby Rydell,Swingin' School,1979
+119,1973,Barbra Streisand,The Way We Were,1979
+120,1978,Barry Manilow,Can't Smile Without You,1979
+121,1959,Dion And The Belmonts,Where Or When,1979
+122,1957,Frankie Lymon,Goody Goody,1979
+123,1969,The Beatles With Billy Preston,Get Back,1979
+124,1961,Gene Chandler,Duke Of Earl,1979
+125,1958,Chuck Berry,Johnny B. Goode,1979
+126,1969,Elvis Presley,In The Ghetto,1979
+127,1970,Elton John,Your Song,1979
+128,1973,The Intruders,I'll Always Love My Mama (Part I),1979
+129,1966,The Beatles,Michelle,1979
+130,1968,The Vogues,My Special Angel,1979
+131,1975,"Hamilton, Joe Frank And Reynolds",Fallin' In Love,1979
+132,1966,The Beach Boys,Good Vibrations,1979
+133,1978,Bee Gees,Night Fever,1979
+134,1976,Elvis Presley,Moody Blue,1979
+135,1975,Paul Anka,Times Of Your Life,1979
+136,1963,The Duprees,Have You Heard,1979
+137,1962,Lou Christie,The Gypsy Cried,1979
+138,1956,The Cleftones,Little Girl Of Mine,1979
+139,1974,The Stylistics,You Make Me Feel Brand New,1979
+140,1966,The Supremes,You Can't Hurry Love,1979
+141,1959,Percy Faith And His Orchestra,"The Theme From ""A Summer Place""",1979
+142,1963,The Classics [Brooklyn],Till Then,1979
+143,1970,Ray Price,For The Good Times,1979
+144,1965,Lou Christie,Lightnin' Strikes,1979
+145,1974,Barry Manilow,Mandy,1979
+146,1972,The Moody Blues,Nights In White Satin,1979
+147,1960,The Everly Brothers,Cathy's Clown,1979
+148,1978,Barbra And Neil,You Don't Bring Me FlowersAlan Lindgren,1979
+149,1962,Joanie Sommers,Johnny Get Angry,1979
+150,1968,The Bee Gees,Words,1979
+101,1970,Smokey Robinson And The Miracles,Promise Me,1979
+102,1970,Neil Diamond,The Time Is Now,1979
+103,1957,Buddy Holly,Everyday,1979
+104,1964,The Righteous Brothers,There's A Woman,1979
+105,1963,The Beatles,I Saw Her Standing There,1979
+106,1959,The Everly Brothers,Since You Broke My Heart,1979
+107,1962,Shelley Fabares,Where's It Gonna Get Me?,1979
+108,1964,Jan And Dean,My Mighty G. T. O.,1979
+109,1958,Conway Twitty,I'll Try,1979
+110,1960,Johnny Burnette,Cincinnati Fireball,1979
+111,1967,Frankie Valli,The Trouble With Me,1979
+112,1971,Bread,Take Comfort,1979
+113,1956,Elvis Presley,Don't Be Cruel,1979
+114,1958,The Platters,No Matter What You Are,1979
+115,1975,Frankie Valli,Why,1979
+116,1969,Neil Diamond,Hurtin' You Don't Come Easy,1979
+117,1958,The Danleers,Wheelin' And A-Dealin',1979
+118,1960,Bobby Rydell,Ding-A-Ling,1979
+119,1973,Barbra Streisand,What Are You Doing The Rest Of Your Life?,1979
+120,1978,Barry Manilow,Sunrise,1979
+121,1959,Dion And The Belmonts,That's My Desire,1979
+122,1957,Frankie Lymon,Creation Of Love,1979
+123,1969,The Beatles With Billy Preston,Don't Let Me Down,1979
+124,1961,Gene Chandler,Kissin' In The Kitchen,1979
+125,1958,Chuck Berry,Around And Around,1979
+126,1969,Elvis Presley,Any Day Now,1979
+127,1970,Elton John,Take Me To The Pilot,1979
+128,1973,The Intruders,I'll Always Love My Mama (Part II),1979
+129,1966,The Beatles,Girl,1979
+130,1968,The Vogues,I Keep It Hid,1979
+131,1975,"Hamilton, Joe Frank And Reynolds",So Good At Lovin' You,1979
+132,1966,The Beach Boys,Let's Go Away For Awhile,1979
+133,1978,Bee Gees,Down The Road,1979
+134,1976,Elvis Presley,She Thinks I Still Care,1979
+135,1975,Paul Anka,Water Runs Deep,1979
+136,1963,The Duprees,Love Eyes,1979
+137,1962,Lou Christie,Red Sails In The Sunset,1979
+138,1956,The Cleftones,You're Driving Me Mad,1979
+139,1974,The Stylistics,Only For The Children,1979
+140,1966,The Supremes,Put Yourself In My Place,1979
+141,1959,Percy Faith And His Orchestra,Go-Go-Po-Go,1979
+142,1963,The Classics [Brooklyn],Enie Minie Mo,1979
+143,1970,Ray Price,Grazin' In Greener Pastures,1979
+144,1965,Lou Christie,Cryin' In The Streets,1979
+145,1974,Barry Manilow,Something's Comin' Up,1979
+146,1972,The Moody Blues,Cities,1979
+147,1960,The Everly Brothers,Always It's You,1979
+148,1978,Barbra And Neil,You Don't Bring Me Flowers (Instrumental),1979
+149,1962,Joanie Sommers,Theme From A Summer Place,1979
+150,1968,The Bee Gees,Sinking Ships,1979
+151,1966,The Beach Boys,Wouldn't It Be Nice,1979
+152,1966,The 4 Seasons,Opus 17 (Don't You Worry 'Bout Me),1979
+153,1963,Dion (Di Muci),Donna The Prima Donna,1979
+154,1960,Jimmy Charles And The Revelletts,A Million To One,1979
+155,1973,Elton John,Daniel,1979
+156,1964,The Beatles,All My Loving,1979
+157,1971,Don McLean,American Pie - Part I,1979
+158,1972,Elvis Presley,Burning Love,1979
+159,1955,The Turbans,When You Dance,1979
+160,1954,The Chords [New York],Sh-boom,1979
+161,1963,Lenny Welch,Since I Fell For You,1979
+162,1968,Classics IV Featuring Dennis Yost,Stormy,1979
+163,1962,The Cascades,Rhythm Of The Rain,1979
+164,1960,Jackie Wilson,Night,1979
+165,1967,The Association,Never My Love,1979
+166,1964,Roy Orbison And The Candy Men,Pretty Woman,1979
+167,1966,Paul Revere And The Raiders Featuring Mark Lindsay,Kicks,1979
+168,1973,Dawn Featuring Tony Orlando,Tie A Yellow Ribbon Round The Ole Oak Tree,1979
+169,1959,Dion And The Belmonts,Where Or When,1979
+170,1961,Del Shannon,Runaway,1979
+171,1978,The O'Jays,Use Ta Be My Girl,1979
+172,1969,The Brooklyn Bridge,Blessed Is The Rain,1979
+173,1977,Leo Sayer,When I Need You,1979
+174,1969,"Blood, Sweat And Tears",You've Made Me So Very Happy,1979
+175,1955,Moonglows,Most Of All,1979
+176,1958,"Elvis PresleyKing Creole, Vol. IA",King CreoleA,1979
+177,1969,Neil Diamond,Sweet Caroline (Good Times Never Seemed So Good),1979
+178,1963,Beach Boys,Surfin' U.S.A.,1979
+179,1961,Shep And The Limelites,Daddy's Home,1979
+180,1976,ABBA,Dancing Queen,1979
+181,1974,John Denver,Annie's Song,1979
+182,1967,Stone Poneys Featuring Linda Ronstadt,Different Drum,1979
+183,1962,The 4 Seasons,Big Girls Don't Cry,1979
+184,1975,Janis Ian,At Seventeen,1979
+185,1959,Neil Sedaka,Oh! Carol,1979
+186,1961,The Echoes [New York],Baby Blue,1979
+187,1959,Lloyd Price,Personality,1979
+188,1972,Helen Reddy,I Am Woman,1979
+189,1956,Elvis Presley,"I Want You, I Need You, I Love You",1979
+190,1962,Ronnie And The Hi-Lites,I Wish That We Were Married,1979
+191,1964,Jay And The Americans,Let's Lock The Door (And Throw Away The Key),1979
+192,1958,The Students,I'm So Young,1979
+193,1957,The Crickets,That'll Be The Day,1979
+194,1971,John Lennon / Plastic Ono Band,Imagine,1979
+195,1971,The Temptations,Just My Imagination (Running Away With Me),1979
+196,1966,The Mamas And The Papas,Words Of Love,1979
+197,1957,Elvis Presley With The Jordanaires,Loving You,1979
+198,1964,The Beatles,And I Love Her,1979
+199,1976,Barry Manilow,This One's For You,1979
+200,1979,Cher,Take Me Home,1979
+151,1966,The Beach Boys,God Only Knows,1979
+152,1966,The 4 Seasons,Beggars' Parade,1979
+153,1963,Dion (Di Muci),You're Mine,1979
+154,1960,Jimmy Charles And The Revelletts,Hop Scotch Hop,1979
+155,1973,Elton John,Skyline Pigeon,1979
+156,1964,The Beatles,This Boy,1979
+157,1971,Don McLean,American Pie - Part II,1979
+158,1972,Elvis Presley,It's A Matter Of Time,1979
+159,1955,The Turbans,Let Me Show You (Around My Heart),1979
+160,1954,The Chords [New York],Little Maiden,1979
+161,1963,Lenny Welch,Are You Sincere,1979
+162,1968,Classics IV Featuring Dennis Yost,24 Hours Of Loneliness,1979
+163,1962,The Cascades,Let Me Be,1979
+164,1960,Jackie Wilson,Doggin' Around,1979
+165,1967,The Association,Requiem For The Masses,1979
+166,1964,Roy Orbison And The Candy Men,Yo Te Amo Maria,1979
+167,1966,Paul Revere And The Raiders Featuring Mark Lindsay,Shake It Up,1979
+168,1973,Dawn Featuring Tony Orlando,I Can't Believe How Much I Love You,1979
+169,1959,Dion And The Belmonts,That's My Desire,1979
+170,1961,Del Shannon,Jody,1979
+171,1978,The O'Jays,This Time Baby,1979
+172,1969,The Brooklyn Bridge,Welcome Me Love,1979
+173,1977,Leo Sayer,I Think We Fell In Love Too Fast,1979
+174,1969,"Blood, Sweat And Tears",Blues - Part II,1979
+175,1955,Moonglows,She's Gone,1979
+176,1958,"Elvis PresleyKing Creole, Vol. IA",New OrleansB1,1979
+177,1969,Neil Diamond,Dig In,1979
+178,1963,Beach Boys,Shut Down,1979
+179,1961,Shep And The Limelites,This I Know,1979
+180,1976,ABBA,That's Me,1979
+181,1974,John Denver,Cool An' Green An' Shady,1979
+182,1967,Stone Poneys Featuring Linda Ronstadt,I've Got To Know,1979
+183,1962,The 4 Seasons,Connie-O,1979
+184,1975,Janis Ian,Stars,1979
+185,1959,Neil Sedaka,One Way Ticket (To The Blues),1979
+186,1961,The Echoes [New York],Boomerang,1979
+187,1959,Lloyd Price,Have You Ever Had The Blues,1979
+188,1972,Helen Reddy,More Than You Could Take,1979
+189,1956,Elvis Presley,My Baby Left Me,1979
+190,1962,Ronnie And The Hi-Lites,Twistin' And Kissin',1979
+191,1964,Jay And The Americans,I'll Remember You,1979
+192,1958,The Students,Every Day Of The Week,1979
+193,1957,The Crickets,I'm Lookin' For Someone To Love,1979
+194,1971,John Lennon / Plastic Ono Band,It's So Hard,1979
+195,1971,The Temptations,You Make Your Own Heaven And Hell Right Here On Earth,1979
+196,1966,The Mamas And The Papas,Dancing In The Street,1979
+197,1957,Elvis Presley With The Jordanaires,(Let Me Be Your) Teddy Bear,1979
+198,1964,The Beatles,If I Fell,1979
+199,1976,Barry Manilow,Riders To The Stars,1979
+200,1979,Cher,My Song (Too Far Gone),1979
+201,1963,Lesley Gore,It's My Party,1979
+202,1971,Carole King,It's Too Late,1979
+203,1956,Willows,Church Bells May Ring,1979
+204,1968,Tom Jones,Delilah,1979
+205,1976,Elvin Bishop,Fooled Around And Fell In Love,1979
+206,1970,Neil Diamond,Cracklin' Rosie,1979
+207,1971,Carpenters,For All We Know,1979
+208,1965,The Miracles,Going To A Go-Go,1979
+209,1954,The Cadillacs,Gloria,1979
+210,1966,The Beatles,Here There And Everywhere,1979
+211,1961,Neil Sedaka,"Happy Birthday, Sweet Sixteen",1979
+212,1977,Barry Manilow,Daybreak,1979
+213,1963,The Chiffons,He's So Fine,1979
+214,1963,Barbara Lewis,Hello Stranger,1979
+215,1964,Jay And The Americans,Come A Little Bit Closer,1979
+216,1965,Mel Carter,"Hold Me, Thrill Me, Kiss Me",1979
+217,1959,The Mystics [New York],Hushabye,1979
+218,1976,Elton John And Kiki Dee,Don't Go Breaking My Heart,1979
+219,1963,Earls,I Believe,1979
+220,1963,Bobby Vinton,Blue On Blue,1979
+221,1972,Rick Nelson And The Stone Canyon Band,Garden Party,1979
+222,1975,Freddy Fender,Before The Next Teardrop Falls,1979
+223,1961,The Marcels,Blue Moon,1979
+224,1968,Neil Diamond,Brooklyn Roads,1979
+225,1956,Elvis Presley,Blue Suede Shoes,1979
+226,1968,The Foundations,Build Me Up Buttercup,1979
+227,1957,The Everly Brothers,Bye Bye Love,1979
+228,1956,The Heartbeats [Doo Wop],A Thousand Miles Away,1979
+229,1959,Bobby Darin,Dream Lover,1979
+230,1978,John Travolta And Olivia Newton-John,You're The One That I WantErnie Watts,1979
+231,1974,Joe Cocker,You Are So Beautiful,1979
+232,1957,Robert And Johnny,We Belong Together,1979
+233,1974,The Three Degrees,When Will I See You Again,1979
+234,1964,The Beatles,A Hard Day's Night,1979
+235,1968,The Doors,Touch Me,1979
+236,1957,Elvis Presley,All Shook Up,1979
+237,1959,The Drifters,There Goes My Baby,1979
+238,1969,The Beatles,Something,1979
+239,1960,The Crests,Step By Step,1979
+240,1966,Frank Sinatra,Strangers In The Night,1979
+241,1969,"Crosby, Stills And Nash",Suit,1979
+242,1970,Bread,Make It With You,1979
+243,1957,The Crickets,"Oh, Boy!",1979
+244,1957,The Chantels,Maybe,1979
+245,1959,Frankie Avalon,Venus,1979
+246,1962,Ruby And The Romantics,Our Day Will Come,1979
+247,1963,The Beach Boys,Surfer Girl,1979
+248,1957,The Diamonds,Little Darlin',1979
+249,1977,Elvis Presley,Way Down,1979
+250,1964,The Shangri-Las,Leader Of The Pack,1979
+201,1963,Lesley Gore,Danny,1979
+202,1971,Carole King,I Feel The Earth Move,1979
+203,1956,Willows,Baby Tell Me,1979
+204,1968,Tom Jones,Smile Away Your Blues,1979
+205,1976,Elvin Bishop,Have A Good Time,1979
+206,1970,Neil Diamond,Lordy,1979
+207,1971,Carpenters,Don't Be Afraid,1979
+208,1965,The Miracles,Choosey Beggar,1979
+209,1954,The Cadillacs,I Wonder Why,1979
+210,1966,The Beatles,Good Day Sunshine,1979
+211,1961,Neil Sedaka,Don't Lead Me On,1979
+212,1977,Barry Manilow,Jump Shout Boogie,1979
+213,1963,The Chiffons,Oh My Lover,1979
+214,1963,Barbara Lewis,Think A Little Sugar,1979
+215,1964,Jay And The Americans,Goodbye Boys Goodbye (Ciao Ragazzi Ciao),1979
+216,1965,Mel Carter,A Sweet Little Girl,1979
+217,1959,The Mystics [New York],Adam And Eve,1979
+218,1976,Elton John And Kiki Dee,Snow Queen,1979
+219,1963,Earls,Don't Forget,1979
+220,1963,Bobby Vinton,Those Little Things,1979
+221,1972,Rick Nelson And The Stone Canyon Band,So Long Mama,1979
+222,1975,Freddy Fender,Waiting For Your Love,1979
+223,1961,The Marcels,Goodbye To Love,1979
+224,1968,Neil Diamond,Holiday Inn Blues,1979
+225,1956,Elvis Presley,Tutti Frutti,1979
+226,1968,The Foundations,New Direction,1979
+227,1957,The Everly Brothers,I Wonder If I Care As Much,1979
+228,1956,The Heartbeats [Doo Wop],Oh Baby Don't,1979
+229,1959,Bobby Darin,Bullmoose,1979
+230,1978,John Travolta And Olivia Newton-John,Alone At A Drive-In Movie (Instrumental),1979
+231,1974,Joe Cocker,It's A Sin When You Love Somebody,1979
+232,1957,Robert And Johnny,Walking In The Rain,1979
+233,1974,The Three Degrees,Year Of Decision,1979
+234,1964,The Beatles,I Should Have Known Better,1979
+235,1968,The Doors,Wild Child,1979
+236,1957,Elvis Presley,That's When Your Heartaches Begin,1979
+237,1959,The Drifters,Oh My Love,1979
+238,1969,The Beatles,Come Together,1979
+239,1960,The Crests,Gee (But I'd Give The World),1979
+240,1966,Frank Sinatra,"Oh, You Crazy Moon",1979
+241,1969,"Crosby, Stills And Nash",Judy Blue EyesB,1979
+242,1970,Bread,Why Do You Keep Me Waiting,1979
+243,1957,The Crickets,Not Fade Away,1979
+244,1957,The Chantels,Come My Little Baby,1979
+245,1959,Frankie Avalon,I'm Broke,1979
+246,1962,Ruby And The Romantics,Moonlight And Music,1979
+247,1963,The Beach Boys,Little Deuce Coupe,1979
+248,1957,The Diamonds,Faithful And True,1979
+249,1977,Elvis Presley,Pledging My Love,1979
+250,1964,The Shangri-Las,What Is Love,1979
+251,1974,Neil Sedaka,Laughter In The Rain,1979
+252,1968,The Delfonics,La-La-Means I Love You,1979
+253,1978,Billy Joel,My Life,1979
+254,1965,The Toys,A Lover's Concerto,1979
+255,1965,The Beach Boys,California Girls,1979
+256,1957,Paul Anka,You Are My Destiny,1979
+257,1970,The Beatles,Let It Be,1979
+258,1979,Bee Gees,Love You Inside Out,1979
+259,1964,The Temptations,My Girl,1979
+260,1967,The Beatles,Strawberry Fields Forever,1979
+261,1974,Paul Anka,(You're) Having My Baby,1979
+262,1973,Jim Croce,Time In A Bottle,1979
+263,1958,Jackie Wilson,Lonely Teardrops,1979
+264,1968,Elvis Presley,If I Can Dream,1979
+265,1962,Ray Charles,I Can't Stop Loving You,1979
+266,1964,The Beach Boys,I Get Around,1979
+267,1960,Brenda Lee,I'm Sorry,1979
+268,1960,Dion,Lonely Teenager,1979
+269,1975,Morris Albert,Feelings,1979
+270,1973,Billy Joel,Piano Man,1979
+271,1968,Richard Harris,Mac Arthur Park,1979
+272,1958,Big Bopper,Chantilly Lace,1979
+273,1958,Buddy Holly,Rave On,1979
+274,1957,The Dell-Vikings,Come Go With Me,1979
+275,1958,The Everly Brothers,All I Have To Do Is Dream,1979
+276,1963,Four Seasons,Candy Girl,1979
+277,1978,Melissa Manchester,Don't Cry Out Loud,1979
+278,1970,Freda Payne,Band Of Gold,1979
+279,1969,Jay And The Americans,Walkin' In The Rain,1979
+280,1970,Carpenters,We've Only Just Begun,1979
+281,1958,Dion And The Belmonts,I Wonder Why,1979
+282,1978,Olivia Newton-John,Hopelessly Devoted To You[no artist listed],1979
+283,1964,"The 4 Seasons Featuring The ""Sound"" Of Frankie Valli",Rag Doll,1979
+284,1954,"Elvis Presley, Scotty And Bill",That's All Right,1979
+285,1968,Tommy James And The Shondells,Crimson And Clover,1979
+286,1969,Chicago,Beginnings,1979
+287,1967,Four Tops,Bernadette,1979
+288,1964,Petula Clark,Downtown,1979
+289,1968,Otis Redding,(Sittin' On) The Dock Of The Bay,1979
+290,1965,The Righteous Brothers,Hung On You,1979
+291,1968,Marvin Gaye,I Heard It Through The Grapevine,1979
+292,1959,The Shirelles,Dedicated To The One I Love,1979
+293,1971,Derek And The Dominos,Layla,1979
+294,1964,The Beatles,And I Love Her,1979
+295,1975,Barry Manilow,It's A Miracle,1979
+296,1972,Gilbert O'Sullivan,Alone Again (Naturally),1979
+297,1963,The Dave Clark Five,Glad All Over,1979
+298,1965,Simon And Garfunkel,The Sounds Of Silence,1979
+299,1962,Neil Sedaka,Breaking Up Is Hard To Do,1979
+300,1964,The Ronettes,Walking In The Rain,1979
+251,1974,Neil Sedaka,Endlessly,1979
+252,1968,The Delfonics,Can't Get Over Losing You,1979
+253,1978,Billy Joel,52nd Street,1979
+254,1965,The Toys,This Night,1979
+255,1965,The Beach Boys,Let Him Run Wild,1979
+256,1957,Paul Anka,When I Stop Loving You (That'll Be The Day),1979
+257,1970,The Beatles,You Know My Name (Look Up My Number),1979
+258,1979,Bee Gees,I'm Satisfied,1979
+259,1964,The Temptations,(Talking 'Bout) Nobody But My Baby,1979
+260,1967,The Beatles,Penny Lane,1979
+261,1974,Paul Anka,Papa,1979
+262,1973,Jim Croce,Hard Time Losin' Man,1979
+263,1958,Jackie Wilson,In The Blue Of Evening,1979
+264,1968,Elvis Presley,Edge Of Reality,1979
+265,1962,Ray Charles,Born To Lose,1979
+266,1964,The Beach Boys,Don't Worry Baby,1979
+267,1960,Brenda Lee,Thats All You Gotta Do,1979
+268,1960,Dion,Little Miss Blue,1979
+269,1975,Morris Albert,This World Today Is A Mess,1979
+270,1973,Billy Joel,You're My Home,1979
+271,1968,Richard Harris,Didn't We,1979
+272,1958,Big Bopper,Purple People Eater Meets Witch Doctor,1979
+273,1958,Buddy Holly,Take Your Time,1979
+274,1957,The Dell-Vikings,How Can I Find True Love,1979
+275,1958,The Everly Brothers,Claudette,1979
+276,1963,Four Seasons,Marlena,1979
+277,1978,Melissa Manchester,We Had This Time,1979
+278,1970,Freda Payne,The Easiest Way To Fall,1979
+279,1969,Jay And The Americans,(I'd Kill) For The Love Of A Lady,1979
+280,1970,Carpenters,All Of My Life,1979
+281,1958,Dion And The Belmonts,Teen Angel,1979
+282,1978,Olivia Newton-John,Love Is A Many Splendored Thing (Instrumental),1979
+283,1964,"The 4 Seasons Featuring The ""Sound"" Of Frankie Valli",Silence Is Golden,1979
+284,1954,"Elvis Presley, Scotty And Bill",Blue Moon Of Kentucky,1979
+285,1968,Tommy James And The Shondells,Some Kind Of Love,1979
+286,1969,Chicago,Poem 58,1979
+287,1967,Four Tops,I Got A Feeling,1979
+288,1964,Petula Clark,You'd Better Love Me,1979
+289,1968,Otis Redding,Sweet Lorene,1979
+290,1965,The Righteous Brothers,Unchained Melody,1979
+291,1968,Marvin Gaye,You're What's Happening (In The World Today),1979
+292,1959,The Shirelles,Look A Here Baby,1979
+293,1971,Derek And The Dominos,I Am Yours,1979
+294,1964,The Beatles,If I Fell,1979
+295,1975,Barry Manilow,One Of These Days,1979
+296,1972,Gilbert O'Sullivan,Save It,1979
+297,1963,The Dave Clark Five,I Know You,1979
+298,1965,Simon And Garfunkel,We've Got A Groovey Thing Goin',1979
+299,1962,Neil Sedaka,As Long As I Live,1979
+300,1964,The Ronettes,How Does It Feel?,1979
+301,1968,Stevie Wonder,For Once In My Life,1979
+302,1977,Linda Ronstadt,Blue Bayou,1979
+303,1964,The Beach Boys,"Fun, Fun, Fun",1979
+304,1958,Jimmy Clanton And His Rockets,You Aim To Please,1979
+305,1969,The 5th Dimension,Medle,1979
+306,1976,Chicago,If You Leave Me Now,1979
+307,1978,Barry Manilow,Somewhere In The Night,1979
+308,1960,Neil Sedaka,Calendar Girl,1979
+309,1975,The Four Seasons,"December, 1963 (Oh, What A Night)",1979
+310,1958,The Flamingos,Lovers Never Say Goodbye,1979
+311,1971,"Sammy Davis, Jr.",The Candy Man,1979
+312,1963,Lesley Gore,You Don't Own Me,1979
+313,1968,Diana Ross And The Supremes,Love Child,1979
+314,1957,The Charts,Deserie,1979
+315,1962,Beach Boys,Surfin' Safari,1979
+316,1971,James Taylor,You've Got A Friend,1979
+317,1965,The Beatles,Ticket To Ride,1979
+318,1957,The Five Satins,To The Aisle,1979
+319,1958,The Platters,Twilight Time,1979
+320,1965,Sonny And Cher,I Got You Babe,1979
+321,1966,? (Question Mark) And The Mysterians,96 Tears,1979
+322,1960,Roy Orbison,Only The Lonely (Know The Way I Feel),1979
+323,1964,Barbra Streisand,I Am Woman,1979
+324,1979,Wings,Goodnight Tonight,1979
+325,1966,The Beach Boys,Sloop John B,1979
+326,1954,The Moonglows,Sincerely,1979
+327,1965,Petula Clark,My Love,1979
+328,1978,Meat Loaf,Two Out Of Three Ain't Bad,1979
+329,1965,The Beatles,We Can Work It Out,1979
+330,1962,Jay And The Americans,Dawning,1979
+331,1966,The Supremes,You Keep Me Hangin' On,1979
+332,1976,George Benson,This Masquerade,1979
+333,1968,Gary Puckett And The Union Gap,Lady Willpower,1979
+334,1971,Nilsson,Without You,1979
+335,1957,Lee Andrews And The Hearts,Teardrops,1979
+336,1961,The Tokens,The Lion Sleeps Tonight,1979
+337,1970,The Beatles,The Long And Winding Road,1979
+338,1965,The Supremes,I Hear A Symphony,1979
+339,1958,The Fascinators,Chapel Bells,1979
+340,1963,Bobby Rydell,Forget Him,1979
+341,1965,The McCoys,Hang On Sloopy,1979
+342,1959,The Coasters,Charlie Brown,1979
+343,1969,Diana Ross And The Supremes,Someday We'll Be Together,1979
+344,1975,Barry Manilow,Could It Be Magic,1979
+345,1966,Los Bravos,Black Is Black,1979
+346,1972,Bette Midler,Do You Want To Dance?,1979
+347,1978,Andy Gibb,An Everlasting Love,1979
+348,1970,Carpenters,(They Long To Be) Close To You,1979
+349,1968,The Association,Everything That Touches You,1979
+350,1958,Harvey And The Moonglows,Ten Commandments Of Love,1979
+301,1968,Stevie Wonder,Angie Girl,1979
+302,1977,Linda Ronstadt,Old Paint,1979
+303,1964,The Beach Boys,Why Do Fools Fall In Love,1979
+304,1958,Jimmy Clanton And His Rockets,Just A Dream,1979
+305,1969,The 5th Dimension,Aquarius / Let The Sunshine In (The Flesh Failures)B,1979
+306,1976,Chicago,Together Again,1979
+307,1978,Barry Manilow,Leavin' In The Morning,1979
+308,1960,Neil Sedaka,The Same Old Fool,1979
+309,1975,The Four Seasons,Slip Away,1979
+310,1958,The Flamingos,That Love Is You,1979
+311,1971,"Sammy Davis, Jr.",I Want To Be Happy,1979
+312,1963,Lesley Gore,"Run Bobby, Run",1979
+313,1968,Diana Ross And The Supremes,Will This Be The Day,1979
+314,1957,The Charts,Zoop,1979
+315,1962,Beach Boys,409,1979
+316,1971,James Taylor,You Can Close Your Eyes,1979
+317,1965,The Beatles,Yes It Is,1979
+318,1957,The Five Satins,Wish I Had My Baby,1979
+319,1958,The Platters,Out Of My Mind,1979
+320,1965,Sonny And Cher,It's Gonna Rain,1979
+321,1966,? (Question Mark) And The Mysterians,Midnight Hour,1979
+322,1960,Roy Orbison,Here Comes That Song Again,1979
+323,1964,Barbra Streisand,People,1979
+324,1979,Wings,Daytime Nightime Suffering,1979
+325,1966,The Beach Boys,You're So Good To Me,1979
+326,1954,The Moonglows,Tempting,1979
+327,1965,Petula Clark,Where Am I Going,1979
+328,1978,Meat Loaf,For Crying Out Loud,1979
+329,1965,The Beatles,Day Tripper,1979
+330,1962,Jay And The Americans,She Cried,1979
+331,1966,The Supremes,Remove This Doubt,1979
+332,1976,George Benson,Lady,1979
+333,1968,Gary Puckett And The Union Gap,Daylight Stranger,1979
+334,1971,Nilsson,Gotta Get Up,1979
+335,1957,Lee Andrews And The Hearts,The Girl Around The Corner,1979
+336,1961,The Tokens,Tina,1979
+337,1970,The Beatles,For You Blue,1979
+338,1965,The Supremes,Who Could Ever Doubt My Love,1979
+339,1958,The Fascinators,I Wonder Who,1979
+340,1963,Bobby Rydell,"Love, Love Go Away",1979
+341,1965,The McCoys,I Can't Explain It,1979
+342,1959,The Coasters,Three Cool Cats,1979
+343,1969,Diana Ross And The Supremes,He's My Sunny Boy,1979
+344,1975,Barry Manilow,I Am Your Child,1979
+345,1966,Los Bravos,I Want A Name,1979
+346,1972,Bette Midler,Superstar,1979
+347,1978,Andy Gibb,Flowing Rivers,1979
+348,1970,Carpenters,I Kept On Loving You,1979
+349,1968,The Association,We Love Us,1979
+350,1958,Harvey And The Moonglows,Mean Old Blues,1979
+351,1967,Petula Clark,This Is My Song,1979
+352,1969,Stevie Wonder,I Don't Know Why I Love You,1979
+353,1965,The Rolling Stones,Get Off Of My Cloud,1979
+354,1966,The Righteous Brothers,(You're My) Soul And Inspiration,1979
+355,1965,Four Tops,I Can't Help Myself,1979
+356,1978,"John Travolta, Olivia Newton-John And Cast",Summer NightsLouis St. Louis,1979
+357,1961,Barbara George,I Know (You Don't Love Me No More),1979
+358,1961,The Paris Sisters,I Love How You Love Me,1979
+359,1967,The 4 Seasons,C'mon Marianne,1979
+360,1978,Alicia Bridges,I Love The Nightlife (Disco 'Round),1979
+361,1976,Kenny Nolan,I Like Dreamin',1979
+362,1963,Dusty Springfield,I Only Want To Be With You,1979
+363,1963,The Drifters,On Broadway,1979
+364,1964,Mary Wells,My Guy,1979
+365,1964,Little Anthony And The Imperials,Goin' Out Of My Head,1979
+366,1969,Zager And Evans,In The Year 2525 (Exordium & Terminus),1979
+367,1963,The Angels,My Boyfriend's Back,1979
+368,1967,Neil Diamond,Kentucky Woman,1979
+369,1959,Wilbert Harrison,Kansas City,1979
+370,1968,Bobby Goldsboro,Honey,1979
+371,1956,Patience And Prudence,Gonna Get Along Without Ya Now,1979
+372,1956,The Channels,The Closer You Are,1979
+373,1957,Jerry Lee Lewis And His Pumping Piano,Great Balls Of Fire,1979
+374,1961,Roy Orbison,Crying,1979
+375,1962,The Crystals,He's A Rebel,1979
+376,1965,The Mama's And The Papa's,California Dreamin',1979
+377,1958,Buddy Holly,Heartbeat,1979
+378,1967,Jackie Wilson,(Your Love Keeps Lifting Me) Higher And Higher,1979
+379,1971,Neil Diamond,I Am... I Said,1979
+380,1968,B. J. Thomas,Hooked On A Feeling,1979
+381,1977,Eagles,Hotel California,1979
+382,1962,Marcie Blane,Bobby's Girl,1979
+383,1974,Carly Simon,Haven't Got Time For The Pain,1979
+384,1957,Elvis Presley,All Shook Up,1979
+385,1978,Kansas,Dust In The Wind,1979
+386,1959,The Crests,The Angels Listened In,1979
+387,1967,Tommy James And The Shondells,I Think We're Alone Now,1979
+388,1963,The Beach Boys,Be True To Your School,1979
+389,1965,The 4 Seasons,"Bye, Bye, Baby (Baby, Goodbye)",1979
+390,1957,Johnny Mathis,It's Not For Me To Say,1979
+391,1959,The Dubs,Chapel Of Dreams,1979
+392,1969,Neil Diamond,Brother Love's Travelling Salvation Show,1979
+393,1967,The Young Rascals,Groovin',1979
+394,1958,The Monotones,Book Of Love,1979
+395,1964,The Beach Boys,I Get Around,1979
+396,1967,Soul Survivors,Expressway To Your Heart,1979
+397,1959,The Fireflies,You Were Mine,1979
+398,1961,Ernie K-Doe,Mother-In-Law,1979
+399,1963,Bobby Vinton,There! I've Said It Again,1979
+400,1969,Classics IV Featuring Dennis Yost,Traces,1979
+351,1967,Petula Clark,High,1979
+352,1969,Stevie Wonder,My Cherie Amour,1979
+353,1965,The Rolling Stones,I'm Free,1979
+354,1966,The Righteous Brothers,B Side Blues,1979
+355,1965,Four Tops,Sad Souvenirs,1979
+356,1978,"John Travolta, Olivia Newton-John And Cast",Rock 'n' Roll Party Queen,1979
+357,1961,Barbara George,Love (Is Just A Chance You Take),1979
+358,1961,The Paris Sisters,All Through The Night,1979
+359,1967,The 4 Seasons,Let's Ride Again,1979
+360,1978,Alicia Bridges,Self Applause,1979
+361,1976,Kenny Nolan,Time Ain't Time Enough,1979
+362,1963,Dusty Springfield,Once Upon A Time,1979
+363,1963,The Drifters,Let The Music Play,1979
+364,1964,Mary Wells,Oh Little Boy (What Did You Do To Me),1979
+365,1964,Little Anthony And The Imperials,Make It Easy On Yourself,1979
+366,1969,Zager And Evans,Little Kids,1979
+367,1963,The Angels,(Love Me) Now,1979
+368,1967,Neil Diamond,The Time Is Now,1979
+369,1959,Wilbert Harrison,"Listen, My Darling",1979
+370,1968,Bobby Goldsboro,Danny,1979
+371,1956,Patience And Prudence,The Money Tree,1979
+372,1956,The Channels,Now You Know (I Love You So),1979
+373,1957,Jerry Lee Lewis And His Pumping Piano,You Win Again,1979
+374,1961,Roy Orbison,Candy Man,1979
+375,1962,The Crystals,I Love You Eddie,1979
+376,1965,The Mama's And The Papa's,Somebody Groovy,1979
+377,1958,Buddy Holly,Well....All Right,1979
+378,1967,Jackie Wilson,I'm The One To Do It,1979
+379,1971,Neil Diamond,Done Too Soon,1979
+380,1968,B. J. Thomas,I've Been Down This Road Before,1979
+381,1977,Eagles,Pretty Maids All In A Row,1979
+382,1962,Marcie Blane,A Time To Dream,1979
+383,1974,Carly Simon,Mind On My Man,1979
+384,1957,Elvis Presley,That's When Your Heartaches Begin,1979
+385,1978,Kansas,Paradox,1979
+386,1959,The Crests,I Thank The Moon,1979
+387,1967,Tommy James And The Shondells,"Gone, Gone, Gone.",1979
+388,1963,The Beach Boys,In My Room,1979
+389,1965,The 4 Seasons,Searching Wind,1979
+390,1957,Johnny Mathis,Warm and Tender,1979
+391,1959,The Dubs,Is There A Love For Me,1979
+392,1969,Neil Diamond,A Modern Day Version Of Love,1979
+393,1967,The Young Rascals,Sueño,1979
+394,1958,The Monotones,You Never Loved Me,1979
+395,1964,The Beach Boys,Don't Worry Baby,1979
+396,1967,Soul Survivors,Hey Gyp,1979
+397,1959,The Fireflies,Stella Got A Fella,1979
+398,1961,Ernie K-Doe,"Wanted, $10,000.00 Reward",1979
+399,1963,Bobby Vinton,The Girl With The Bow In Her Hair,1979
+400,1969,Classics IV Featuring Dennis Yost,"Mary, Mary Row Your Boat",1979
+401,1957,The Everly Brothers,Wake Up Little Susie,1979
+402,1958,Ed Townsend,For Your Love,1979
+403,1973,Diana Ross,Touch Me In The Morning,1979
+404,1970,The Supremes,Stoned Love,1979
+405,1978,Billy Joel,Movin' Out (Anthony's Song),1979
+406,1968,The Vogues,"Turn Around, Look At Me",1979
+407,1958,Paul Anka,(All Of A Sudden) My Heart Sings,1979
+408,1974,Barry White,"You're The First, The Last, My Everything",1979
+409,1968,Simon And Garfunkel,Scarborough Fair (/Canticle),1979
+410,1970,George Harrison,My Sweet Lord,1979
+411,1965,The Supremes,My World Is Empty Without You,1979
+412,1975,Judy Collins,Send In The Clowns,1979
+413,1958,The Teddy Bears,"To Know Him, Is To Love Him",1979
+414,1964,The Beatles,She Loves You,1979
+415,1976,Rod Stewart,Tonight's The Night (Gonna Be Alright),1979
+416,1957,The Coasters,Searchin',1979
+417,1964,The 4 Seasons,Big Man In Town,1979
+418,1975,America,Sister Golden Hair,1979
+419,1970,Neil Diamond,Shilo,1979
+420,1977,Bee Gees,Stayin' Alive,1979
+421,1977,Glen Campbell,Southern Nights,1979
+422,1966,The Lovin' Spoonful,Summer In The City,1979
+423,1966,Bobby Hebb,Sunny,1979
+424,1966,The Walker Bros.,The Sun Ain't Gonna Shine (Anymore),1979
+425,1958,Chuck Berry,Sweet Little Sixteen,1979
+426,1978,Barry Manilow,Ready To Take A Chance Again,1979
+427,1961,The Corsairs,Smoky Places,1979
+428,1962,Freddy Cannon,Palisades Park,1979
+429,1961,Bobby Vee,Run To Him,1979
+430,1960,The Drifters,Save The Last Dance For Me,1979
+431,1957,Little Joe And The Thrillers,Peanuts,1979
+432,1960,Steve Lawrence,Portrait Of My Love,1979
+433,1971,Cat Stevens,Peace Train,1979
+434,1972,Anne Murray,Danny's Song,1979
+435,1968,Creedence Clearwater Revival,Proud Mary,1979
+436,1980,Bee Gees,Night Fever,1979
+437,1976,Lou Rawls,You'll Never Find Another Love Like Mine,1979
+438,1963,The 4 Seasons,Walk Like A Man,1979
+439,1961,Ricky Nelson,Travelin' Man,1979
+440,1975,The Blackbyrds,Walking In Rhythm,1979
+441,1966,Jimmy Ruffin,What Becomes Of The Brokenhearted,1979
+442,1967,The Turtles,Happy Together,1979
+443,1966,Janis Ian,Society's Child (Baby I've Been Thinking),1979
+444,1957,The Dubs,Don't Ask Me (To Be Lonely),1979
+445,1976,David Soul,Don't Give Up On Us,1979
+446,1965,Billy Joe Royal,Down In The Boondocks,1979
+447,1973,The Rolling Stones,Angie,1979
+448,1965,Sam The Sham And The Pharaohs,Wooly Bully,1979
+449,1967,The Union Gap Featuring Gary Puckett,"Woman, Woman",1979
+450,1974,The Hollies,The Air That I Breathe,1979
+401,1957,The Everly Brothers,Maybe Tomorrow,1979
+402,1958,Ed Townsend,Over And Over Again,1979
+403,1973,Diana Ross,I Won't Last A Day Without You,1979
+404,1970,The Supremes,Shine On Me,1979
+405,1978,Billy Joel,Everybody Has A Dream,1979
+406,1968,The Vogues,Then,1979
+407,1958,Paul Anka,That's Love,1979
+408,1974,Barry White,"More Than Anything, You're My Everything",1979
+409,1968,Simon And Garfunkel,April Come She Will,1979
+410,1970,George Harrison,Isn't It A Pity,1979
+411,1965,The Supremes,Everything Is Good About You,1979
+412,1975,Judy Collins,Houses,1979
+413,1958,The Teddy Bears,Don't You Worry My Little Pet,1979
+414,1964,The Beatles,I'll Get You,1979
+415,1976,Rod Stewart,Fool For You,1979
+416,1957,The Coasters,Young Blood,1979
+417,1964,The 4 Seasons,Little Angel,1979
+418,1975,America,Midnight,1979
+419,1970,Neil Diamond,La Bamba,1979
+420,1977,Bee Gees,If I Can't Have You,1979
+421,1977,Glen Campbell,William Tell Overture,1979
+422,1966,The Lovin' Spoonful,Butchie's Tune,1979
+423,1966,Bobby Hebb,Bread,1979
+424,1966,The Walker Bros.,After The Lights Go Out,1979
+425,1958,Chuck Berry,Reelin And Rocking,1979
+426,1978,Barry Manilow,Sweet Life,1979
+427,1961,The Corsairs,Thinkin' (Maybe She's Changed Her Ways),1979
+428,1962,Freddy Cannon,"June, July, And August",1979
+429,1961,Bobby Vee,Walkin' With My Angel,1979
+430,1960,The Drifters,Nobody But Me,1979
+431,1957,Little Joe And The Thrillers,Lilly Lou,1979
+432,1960,Steve Lawrence,Oh How You Lied,1979
+433,1971,Cat Stevens,Where Do The Children Play,1979
+434,1972,Anne Murray,Drown Me,1979
+435,1968,Creedence Clearwater Revival,Born On The Bayou,1979
+436,1980,Bee Gees,More Than A Woman,1979
+437,1976,Lou Rawls,Let's Fall In Love All Over Again,1979
+438,1963,The 4 Seasons,Lucky Ladybug,1979
+439,1961,Ricky Nelson,Hello Mary Lou,1979
+440,1975,The Blackbyrds,The Baby,1979
+441,1966,Jimmy Ruffin,Baby I've Got It,1979
+442,1967,The Turtles,Like The Seasons,1979
+443,1966,Janis Ian,Letter To Jon,1979
+444,1957,The Dubs,Darling,1979
+445,1976,David Soul,Black Bean Soup,1979
+446,1965,Billy Joe Royal,"Oh, What A Night",1979
+447,1973,The Rolling Stones,Silver Train,1979
+448,1965,Sam The Sham And The Pharaohs,Ain't Gonna Move,1979
+449,1967,The Union Gap Featuring Gary Puckett,Don't Make Promises,1979
+450,1974,The Hollies,No More Riders,1979
+451,1958,Fats Domino,Whole Lotta Loving,1979
+452,1972,Don McLean,Vincent,1979
+453,1959,Ray Charles And His Orchestra,What'd I Say (Part 1),1979
+454,1961,Little Caesar And The Romans,Those Oldies But Goodies (Remind Me Of You)The Romans,1979
+455,1967,Paul Mauriat And His Orchestra,Love Is Blue (L'Amour Est Bleu),1979
+456,1958,Cozy Cole,Topsy I,1979
+457,1956,"Elvis PresleyELVIS, Volume 1A",Rip It UpA,1979
+458,1973,Love Unlimited Orchestra,Love's Theme,1979
+459,1971,Rod Stewart,Reason To Believe,1979
+460,1978,Andy Gibb,Shadow Dancing,1979
+461,1969,The Flying Machine,Smile A Little Smile For Me,1979
+462,1964,Patty And The Emblems,"Mixed-Up, Shook-Up, Girl",1979
+463,1958,Elvis Presley With The Jordanaires,Wear My Ring Around Your Neck,1979
+464,1960,Maurice Williams And The Zodiacs,Stay,1979
+465,1959,Jackie Wilson,That's Why (I Love You So),1979
+466,1963,The Crystals,Then He Kissed Me,1979
+467,1965,The Supremes,Stop! In The Name Of Love,1979
+468,1979,Suzi Quatro And Chris Norman,Stumblin' In,1979
+469,1967,The Young Rascals,How Can I Be Sure,1979
+470,1964,Gary Lewis And The Playboys,This Diamond Ring,1979
+471,1956,Little Richard And His Band,Rip It Up,1979
+472,1959,Paul Anka,Lonely Boy,1979
+473,1970,Barbra Streisand,Stoney End,1979
+474,1959,Johnny Mathis,Misty,1979
+475,1974,The Hues Corporation,Rock The Boat,1979
+476,1974,Frankie Valli,My Eyes Adored You,1979
+477,1956,Chuck Berry And His Combo,Roll Over Beethoven,1979
+478,1973,Paul McCartney And Wings,My Love,1979
+479,1959,The Coasters,Poison Ivy,1979
+480,1958,Ricky Nelson,Poor Little Fool,1979
+481,1958,The Shields,You Cheated,1979
+482,1954,Johnny Ace,Pledging My Love,1979
+483,1963,"Peter, Paul And Mary",Puff,1979
+484,1973,Roberta Flack,Killing Me Softly With His Song,1979
+485,1978,Chuck Mangione,Feels So Good,1979
+486,1974,Paper Lace,The Night Chicago Died,1979
+487,1962,Dion,Love Came To Me,1979
+488,1976,Captain And Tennille,Lonely Night (Angel Face),1979
+489,1972,The Hollies,Long Cool Woman (In A Black Dress),1979
+490,1961,Chubby Checker,Let's Twist Again,1979
+491,1961,Don And Juan,What's Your Name,1979
+492,1959,Jan And Dean,Baby Talk,1979
+493,1961,Connie Francis,Where The Boys Are,1979
+494,1956,Shirley And Lee,Let The Good Times Roll,1979
+495,1972,Daniel Boone,Beautiful Sunday,1979
+496,1963,Jay And The Americans,Only In America,1979
+497,1965,Four Tops,It's The Same Old Song,1979
+451,1958,Fats Domino,Coquette,1979
+452,1972,Don McLean,Castles In The Air,1979
+453,1959,Ray Charles And His Orchestra,What'd I Say (Part 2),1979
+454,1961,Little Caesar And The Romans,She Don't Wanna Dance (No More),1979
+455,1967,Paul Mauriat And His Orchestra,Alone In The World (Seuls Au Monde),1979
+456,1958,Cozy Cole,Topsy II,1979
+457,1956,"Elvis PresleyELVIS, Volume 1A",Love MeB1,1979
+458,1973,Love Unlimited Orchestra,Sweet Moments,1979
+459,1971,Rod Stewart,Maggie May,1979
+460,1978,Andy Gibb,Let It Be Me,1979
+461,1969,The Flying Machine,Maybe We've Been Loving Too Long,1979
+462,1964,Patty And The Emblems,Ordinary Guy,1979
+463,1958,Elvis Presley With The Jordanaires,Doncha' Think It's Time,1979
+464,1960,Maurice Williams And The Zodiacs,Do You Believe,1979
+465,1959,Jackie Wilson,Love Is All,1979
+466,1963,The Crystals,Brother Julius,1979
+467,1965,The Supremes,I'm In Love Again,1979
+468,1979,Suzi Quatro And Chris Norman,A Stranger To Paradise,1979
+469,1967,The Young Rascals,I'm So Happy Now,1979
+470,1964,Gary Lewis And The Playboys,Tijuana Wedding,1979
+471,1956,Little Richard And His Band,Ready Teddy,1979
+472,1959,Paul Anka,Your Love,1979
+473,1970,Barbra Streisand,I'll Be Home,1979
+474,1959,Johnny Mathis,The Story Of Our Love,1979
+475,1974,The Hues Corporation,All Goin' Down Together,1979
+476,1974,Frankie Valli,Watch Where You Walk,1979
+477,1956,Chuck Berry And His Combo,Drifting Heart,1979
+478,1973,Paul McCartney And Wings,The Mess,1979
+479,1959,The Coasters,I'm A Hog For You,1979
+480,1958,Ricky Nelson,Don't Leave Me This Way,1979
+481,1958,The Shields,That's The Way It's Gonna Be,1979
+482,1954,Johnny Ace,No Money,1979
+483,1963,"Peter, Paul And Mary",Pretty Mary,1979
+484,1973,Roberta Flack,Just Like A Woman,1979
+485,1978,Chuck Mangione,Maui-Waui,1979
+486,1974,Paper Lace,Can You Get It When You Want It,1979
+487,1962,Dion,Little Girl,1979
+488,1976,Captain And Tennille,Smile For Me One More Time,1979
+489,1972,The Hollies,Look What We've Got,1979
+490,1961,Chubby Checker,Everything's Gonna' Be All Right,1979
+491,1961,Don And Juan,Chicken Necks,1979
+492,1959,Jan And Dean,"Jeanette, Get Your Hair Done",1979
+493,1961,Connie Francis,No One,1979
+494,1956,Shirley And Lee,Do You Mean To Hurt Me So,1979
+495,1972,Daniel Boone,Truly Julie,1979
+496,1963,Jay And The Americans,My Clair De Lune,1979
+497,1965,Four Tops,Your Love Is Amazing,1979

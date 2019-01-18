@@ -1,0 +1,999 @@
+Rank,Year,Artist,Song1,Chart_Year
+1,1956,The Five Satins,In The Still Of The Nite,1995
+2,1954,The Penguins,Hey Senorita,1995
+3,1961,Elvis Presley,Can't Help Falling In Love,1995
+4,1965,The Righteous Brothers,Hung On You,1995
+5,1957,Mello-Kings,"Tonite, Tonite",1995
+6,1977,Elvis Presley,My Way,1995
+7,1970,Elvis Presley,The Wonder Of You,1995
+8,1959,Bobby Darin,Mack The Knife,1995
+9,1958,The Skyliners,Since I Don't Have You,1995
+10,1962,The Duprees,You Belong To Me,1995
+11,1956,Elvis Presley,Love Me Tender,1995
+12,1963,The Classics [Brooklyn],Till Then,1995
+13,1959,The Flamingos,I Only Have Eyes For You,1995
+14,1963,Earls,I Believe,1995
+15,1968,The Beatles,Hey Jude,1995
+16,1954,Bill Haley And His Comets,Thirteen Women (And Only One Man In Town),1995
+17,1957,Elvis Presley,Jailhouse Rock,1995
+18,1982,The Capris [New York],Morse Code Of Love,1995
+19,1961,Dion,Runaround Sue,1995
+20,1958,The Elegants,Little Star,1995
+21,1956,The Platters,My Prayer,1995
+22,1958,The Crests,16 Candles,1995
+23,1958,Dion And The Belmonts,I Wonder Why,1995
+24,1957,The Dubs,Could This Be Magic,1995
+25,1961,Dion,The Wanderer,1995
+26,1964,The 4 Seasons,Rag Doll,1995
+27,1964,The Temptations,My Girl,1995
+28,1956,Elvis Presley,Don't Be Cruel,1995
+29,1955,The Platters,Only You (And You Alone),1995
+30,1962,The Excellents,Coney Island Baby,1995
+31,1965,Jay And The Americans,"Cara, Mia",1995
+32,1968,Brooklyn Bridge,Worst That Could Happen,1995
+33,1964,The Drifters,Under The Boardwalk,1995
+34,1961,The Tokens,The Lion Sleeps Tonight,1995
+35,1961,The Angels,Til,1995
+36,1965,The Rolling Stones,(I Can't Get No) Satisfaction,1995
+37,1960,"The Chimes [60s, Brooklyn]",Once In Awhile,1995
+38,1964,The Righteous Brothers,You've Lost That Lovin' Feelin',1995
+39,1954,Johnny Ace,Pledging My Love,1995
+40,1958,The Danleers,One Summer Night,1995
+41,1971,Don McLean,American Pie - Part I,1995
+42,1959,The Passions,Just To Be With You,1995
+43,1954,The Moonglows,Sincerely,1995
+44,1963,The Ronettes,Be My Baby,1995
+45,1962,The 4 Seasons,Sherry,1995
+46,1960,The Shirelles,Will You Love Me Tomorrow,1995
+47,1957,The Dell-Vikings,Come Go With Me,1995
+48,1955,The Teenagers Featuring Frankie Lymon,Why Do Fools Fall In Love,1995
+49,1965,The Beatles,Yesterday,1995
+50,1961,Chubby Checker,The Twist,1995
+1,1956,The Five Satins,The Jones Girl,1995
+2,1954,The Penguins,Earth Angel,1995
+3,1961,Elvis Presley,Rock-A-Hula Baby,1995
+4,1965,The Righteous Brothers,Unchained Melody,1995
+5,1957,Mello-Kings,Do Baby Do,1995
+6,1977,Elvis Presley,America,1995
+7,1970,Elvis Presley,Mama Liked The Roses,1995
+8,1959,Bobby Darin,Was There A Call For Me,1995
+9,1958,The Skyliners,"One Night, One Night",1995
+10,1962,The Duprees,Take Me As I Am,1995
+11,1956,Elvis Presley,Anyway You Want Me (That's How I'll Be),1995
+12,1963,The Classics [Brooklyn],Enie Minie Mo,1995
+13,1959,The Flamingos,Goodnight Sweetheart,1995
+14,1963,Earls,Don't Forget,1995
+15,1968,The Beatles,Revolution,1995
+16,1954,Bill Haley And His Comets,(We're Gonna) Rock Around The Clock,1995
+17,1957,Elvis Presley,Treat Me Nice,1995
+18,1982,The Capris [New York],There's A Moon Out Again,1995
+19,1961,Dion,Runaway Girl,1995
+20,1958,The Elegants,Getting Dizzy,1995
+21,1956,The Platters,Heaven On Earth,1995
+22,1958,The Crests,Beside You,1995
+23,1958,Dion And The Belmonts,Teen Angel,1995
+24,1957,The Dubs,Such Lovin',1995
+25,1961,Dion,The Majestic,1995
+26,1964,The 4 Seasons,Silence Is Golden,1995
+27,1964,The Temptations,(Talking 'Bout) Nobody But My Baby,1995
+28,1956,Elvis Presley,Hound Dog,1995
+29,1955,The Platters,"Bark, Battle And Ball",1995
+30,1962,The Excellents,You Baby You,1995
+31,1965,Jay And The Americans,When It's All Over,1995
+32,1968,Brooklyn Bridge,"Your Kite, My Kite.",1995
+33,1964,The Drifters,I Don't Want To Go On Without You,1995
+34,1961,The Tokens,Tina,1995
+35,1961,The Angels,A Moment Ago,1995
+36,1965,The Rolling Stones,The Under Assistant West Coast Promotion Man,1995
+37,1960,"The Chimes [60s, Brooklyn]",Summer Night,1995
+38,1964,The Righteous Brothers,There's A Woman,1995
+39,1954,Johnny Ace,No Money,1995
+40,1958,The Danleers,Wheelin' And A-Dealin',1995
+41,1971,Don McLean,American Pie - Part II,1995
+42,1959,The Passions,Oh Melancholy Me,1995
+43,1954,The Moonglows,Tempting,1995
+44,1963,The Ronettes,Tedesco And Pitman,1995
+45,1962,The 4 Seasons,I've Cried Before,1995
+46,1960,The Shirelles,Boys,1995
+47,1957,The Dell-Vikings,How Can I Find True Love,1995
+48,1955,The Teenagers Featuring Frankie Lymon,Please Be Mine,1995
+49,1965,The Beatles,Act Naturally,1995
+50,1961,Chubby Checker,Twistin' U.S.A.,1995
+51,1959,The Skyliners,This I Swear,1995
+52,1964,Roy Orbison And The Candy Men,Pretty Woman,1995
+53,1969,Frank Sinatra,My Way,1995
+54,1959,Bobby Darin,Dream Lover,1995
+55,1961,Del Shannon,Runaway,1995
+56,1960,The Capris [New York],There's A Moon Out Tonight,1995
+57,1961,The Marcels,Blue Moon,1995
+58,1956,Elvis Presley,Hound Dog,1995
+59,1956,The Channels,The Closer You Are,1995
+60,1969,Elvis Presley,Suspicious Minds,1995
+61,1957,The Diamonds,Little Darlin',1995
+62,1958,Chuck Berry,Johnny B. Goode,1995
+63,1957,The Dell-Vikings,Whispering Bells,1995
+64,1963,The Beatles,I Want To Hold Your Hand,1995
+65,1961,Ben E. King,Stand By Me,1995
+66,1957,Danny And The Juniors,At The Hop,1995
+67,1960,Elvis Presley With The Jordanaires,Are You Lonesome To-night?,1995
+68,1959,Percy Faith And His Orchestra,"The Theme From ""A Summer Place""",1995
+69,1962,The Earls,Remember Then,1995
+70,1958,The Platters,Smoke Gets In Your Eyes,1995
+71,1960,Bobby Darin,Beyond The Sea,1995
+72,1957,Johnny Mathis,Chances Are,1995
+73,1959,Dion And The Belmonts,A Teenager In Love,1995
+74,1957,The Chantels,Maybe,1995
+75,1956,Fats Domino,Blueberry Hill,1995
+76,1957,The Rays,Silhouettes,1995
+77,1958,Little Anthony And The Imperials,Tears On My Pillow,1995
+78,1959,The Isley Brothers,Shout - Part 1,1995
+79,1959,Dion And The Belmonts,Where Or When,1995
+80,1968,The Vogues,My Special Angel,1995
+81,1967,The Doors,Light My Fire,1995
+82,1966,Percy Sledge,When A Man Loves A Woman,1995
+83,1963,Lesley Gore,It's My Party,1995
+84,1961,Roy Orbison,Crying,1995
+85,1957,Billy Ward And His Dominoes,Star Dust,1995
+86,1966,The Beach Boys,Good Vibrations,1995
+87,1957,Johnny Mathis,Chances Are,1995
+88,1970,The Beatles,Let It Be,1995
+89,1958,Ritchie Valens,Donna,1995
+90,1960,The Drifters,Save The Last Dance For Me,1995
+91,1966,The Association,Cherish,1995
+92,1972,Led Zeppelin,Stairway To Heaven [Mono],1995
+93,1957,Elvis Presley With The Jordanaires,Loving You,1995
+94,1971,John Lennon / Plastic Ono Band,Imagine,1995
+95,1958,The Platters,Twilight Time,1995
+96,1954,The Cadillacs,Gloria,1995
+97,1959,Phil Phillips With The Twilights,Sea Of Love,1995
+98,1965,The Beatles,Help!,1995
+99,1964,Terry Stafford,Suspicion,1995
+100,1964,The Shangri-Las,Leader Of The Pack,1995
+51,1959,The Skyliners,Tomorrow,1995
+52,1964,Roy Orbison And The Candy Men,Yo Te Amo Maria,1995
+53,1969,Frank Sinatra,Blue Lace,1995
+54,1959,Bobby Darin,Bullmoose,1995
+55,1961,Del Shannon,Jody,1995
+56,1960,The Capris [New York],Indian Girl,1995
+57,1961,The Marcels,Goodbye To Love,1995
+58,1956,Elvis Presley,Don't Be Cruel,1995
+59,1956,The Channels,Now You Know (I Love You So),1995
+60,1969,Elvis Presley,You'll Think Of Me,1995
+61,1957,The Diamonds,Faithful And True,1995
+62,1958,Chuck Berry,Around And Around,1995
+63,1957,The Dell-Vikings,Don't Be A Fool,1995
+64,1963,The Beatles,I Saw Her Standing There,1995
+65,1961,Ben E. King,On The Horizon,1995
+66,1957,Danny And The Juniors,Sometimes (When I'm All Alone),1995
+67,1960,Elvis Presley With The Jordanaires,I Gotta Know,1995
+68,1959,Percy Faith And His Orchestra,Go-Go-Po-Go,1995
+69,1962,The Earls,Let's Waddle,1995
+70,1958,The Platters,No Matter What You Are,1995
+71,1960,Bobby Darin,That's The Way Love Is,1995
+72,1957,Johnny Mathis,The Twelfth Of Never,1995
+73,1959,Dion And The Belmonts,I've Cried Before,1995
+74,1957,The Chantels,Come My Little Baby,1995
+75,1956,Fats Domino,Honey Chile,1995
+76,1957,The Rays,Daddy Cool,1995
+77,1958,Little Anthony And The Imperials,Two People In The World,1995
+78,1959,The Isley Brothers,Shout - Part 2,1995
+79,1959,Dion And The Belmonts,That's My Desire,1995
+80,1968,The Vogues,I Keep It Hid,1995
+81,1967,The Doors,The Crystal Ship,1995
+82,1966,Percy Sledge,Love Me Like You Mean It,1995
+83,1963,Lesley Gore,Danny,1995
+84,1961,Roy Orbison,Candy Man,1995
+85,1957,Billy Ward And His Dominoes,Lucinda,1995
+86,1966,The Beach Boys,Let's Go Away For Awhile,1995
+87,1957,Johnny Mathis,The Twelfth Of Never,1995
+88,1970,The Beatles,You Know My Name (Look Up My Number),1995
+89,1958,Ritchie Valens,La Bamba,1995
+90,1960,The Drifters,Nobody But Me,1995
+91,1966,The Association,Don't Blame It On Me,1995
+92,1972,Led Zeppelin,Stairway To Heaven [Stereo],1995
+93,1957,Elvis Presley With The Jordanaires,(Let Me Be Your) Teddy Bear,1995
+94,1971,John Lennon / Plastic Ono Band,It's So Hard,1995
+95,1958,The Platters,Out Of My Mind,1995
+96,1954,The Cadillacs,I Wonder Why,1995
+97,1959,Phil Phillips With The Twilights,Juella,1995
+98,1965,The Beatles,I'm Down,1995
+99,1964,Terry Stafford,Judy,1995
+100,1964,The Shangri-Las,What Is Love,1995
+101,1958,Jerry Butler And The Impressions,For Your Precious Love,1995
+102,1962,The Duprees,My Own True Love,1995
+103,1965,Mel Carter,"Hold Me, Thrill Me, Kiss Me",1995
+104,1959,The Dubs,Chapel Of Dreams,1995
+105,1967,Frankie Valli,Can't Take My Eyes Off You,1995
+106,1970,Simon And Garfunkel,Bridge Over Troubled Water,1995
+107,1962,The Shirelles,Soldier Boy,1995
+108,1980,Frank Sinatra,"Theme From New York, New York",1995
+109,1959,The Drifters,There Goes My Baby,1995
+110,1966,The Beatles,Run For Your Life,1995
+111,1979,Bob Seger And The Silver Bullet Band,Old Time Rock & RollBob Seger,1995
+112,1957,Paul Anka,Diana,1995
+113,1963,The Beach Boys,Surfer Girl,1995
+114,1961,Gene Chandler,Duke Of Earl,1995
+115,1960,Rosie And The Originals,Angel Baby,1995
+116,1962,The Drifters,Up On The Roof,1995
+117,1962,Elvis Presley With The Jordanaires,Return To Sender,1995
+118,1958,Tommy Edwards,It's All In The Game,1995
+119,1961,Shep And The Limelites,Daddy's Home,1995
+120,1968,Richard Harris,Mac Arthur Park,1995
+121,1964,The 4 Seasons,Dawn (Go Away),1995
+122,1958,Frankie Ford,Sea Cruise,1995
+123,1958,Ritchie Valens,Donna,1995
+124,1957,Elvis Presley,All Shook Up,1995
+125,1972,Elvis Presley,Burning Love,1995
+126,1958,The Students,I'm So Young,1995
+127,1963,The Tymes,So Much In Love,1995
+128,1956,Frankie Lymon And The Teenagers,The A.B.C's Of Love,1995
+129,1972,The Moody Blues,Nights In White Satin,1995
+130,1961,The Jive Five,My True Story,1995
+131,1960,The Passions,I Only Want You,1995
+132,1964,The Beatles,She Loves You,1995
+133,1964,The Dixie Cups,Chapel Of Love,1995
+134,1956,The Dells,Oh What A Nite,1995
+135,1960,The Demensions,Over The Rainbow,1995
+136,1958,Jackie Wilson,Lonely Teardrops,1995
+137,1956,Elvis Presley,Heartbreak Hotel,1995
+138,1963,The Duprees,Have You Heard,1995
+139,1957,Norman Fox And The Rob-Roys,Tell Me WhyThe Rob-Roys,1995
+140,1959,Frankie Avalon,Venus,1995
+141,1965,Sonny And Cher,I Got You Babe,1995
+142,1964,The Animals,The House Of The Rising Sun,1995
+143,1963,Randy And The Rainbows,Denise,1995
+144,1957,Bobby Helms,My Special Angel,1995
+145,1956,Elvis Presley,"I Want You, I Need You, I Love You",1995
+146,1963,The Earls,Eyes,1995
+147,1972,Harry Chapin,Taxi,1995
+148,1967,Aretha Franklin,Respect,1995
+149,1975,The Four Seasons,"December, 1963 (Oh, What A Night)",1995
+150,1957,Buddy Holly,Peggy Sue,1995
+101,1958,Jerry Butler And The Impressions,Sweet Was The Wine,1995
+102,1962,The Duprees,Ginny,1995
+103,1965,Mel Carter,A Sweet Little Girl,1995
+104,1959,The Dubs,Is There A Love For Me,1995
+105,1967,Frankie Valli,The Trouble With Me,1995
+106,1970,Simon And Garfunkel,Keep The Customer Satisfied,1995
+107,1962,The Shirelles,Love Is A Swingin' Thing,1995
+108,1980,Frank Sinatra,That's What God Looks Like To Me,1995
+109,1959,The Drifters,Oh My Love,1995
+110,1966,The Beatles,In My Life,1995
+111,1979,Bob Seger And The Silver Bullet Band,Sunspot Baby,1995
+112,1957,Paul Anka,Don't Gamble With Love,1995
+113,1963,The Beach Boys,Little Deuce Coupe,1995
+114,1961,Gene Chandler,Kissin' In The Kitchen,1995
+115,1960,Rosie And The Originals,Give Me Love,1995
+116,1962,The Drifters,Another Night With The Boys,1995
+117,1962,Elvis Presley With The Jordanaires,Where Do You Come From,1995
+118,1958,Tommy Edwards,Please Love Me Forever,1995
+119,1961,Shep And The Limelites,This I Know,1995
+120,1968,Richard Harris,Didn't We,1995
+121,1964,The 4 Seasons,No Surfin' Today,1995
+122,1958,Frankie Ford,Roberta,1995
+123,1958,Ritchie Valens,La Bamba,1995
+124,1957,Elvis Presley,That's When Your Heartaches Begin,1995
+125,1972,Elvis Presley,It's A Matter Of Time,1995
+126,1958,The Students,Every Day Of The Week,1995
+127,1963,The Tymes,Roscoe James McClain,1995
+128,1956,Frankie Lymon And The Teenagers,Share,1995
+129,1972,The Moody Blues,Cities,1995
+130,1961,The Jive Five,When I Was Single,1995
+131,1960,The Passions,This Is My Love,1995
+132,1964,The Beatles,I'll Get You,1995
+133,1964,The Dixie Cups,Ain't That Nice,1995
+134,1956,The Dells,Jo-Jo,1995
+135,1960,The Demensions,Nursery Rhime Rock,1995
+136,1958,Jackie Wilson,In The Blue Of Evening,1995
+137,1956,Elvis Presley,I Was The One,1995
+138,1963,The Duprees,Love Eyes,1995
+139,1957,Norman Fox And The Rob-Roys,Audry,1995
+140,1959,Frankie Avalon,I'm Broke,1995
+141,1965,Sonny And Cher,It's Gonna Rain,1995
+142,1964,The Animals,Talkin' 'Bout You,1995
+143,1963,Randy And The Rainbows,Come Back,1995
+144,1957,Bobby Helms,Standing At The End Of My World,1995
+145,1956,Elvis Presley,My Baby Left Me,1995
+146,1963,The Earls,Look My Way,1995
+147,1972,Harry Chapin,Empty,1995
+148,1967,Aretha Franklin,Dr. Feelgood,1995
+149,1975,The Four Seasons,Slip Away,1995
+150,1957,Buddy Holly,Everyday,1995
+151,1960,Safaris,Image Of A Girl,1995
+152,1957,Jerry Lee Lewis And His Pumping Piano,Great Balls Of Fire,1995
+153,1965,The Mama's And The Papa's,California Dreamin',1995
+154,1956,The 3 Friends,Blanche,1995
+155,1965,The Supremes,Stop! In The Name Of Love,1995
+156,1960,Elvis Presley With The Jordanaires,It's Now Or Never,1995
+157,1964,Martha And The Vandellas,Dancing In The Street,1995
+158,1960,Maurice Williams And The Zodiacs,Stay,1995
+159,1958,Harvey And The Moonglows,Ten Commandments Of Love,1995
+160,1962,The Crystals,He's A Rebel,1995
+161,1960,Buddy Holly,True Love Ways,1995
+162,1965,Four Tops,I Can't Help Myself,1995
+163,1957,The Five Satins,To The Aisle,1995
+164,1964,Mary Wells,My Guy,1995
+165,1971,Chicago,Beginnings,1995
+166,1961,The Corsairs,Smoky Places,1995
+167,1958,The Aquatones,She's The One For Me,1995
+168,1961,Patsy Cline,Crazy,1995
+169,1967,The Turtles,Happy Together,1995
+170,1960,The Jesters [doowop],The Wind,1995
+171,1962,Jive Five With Eugene Pitt,What Time Is It?,1995
+172,1963,The 4 Seasons,Walk Like A Man,1995
+173,1957,Connie Francis,Who's Sorry Now,1995
+174,1961,Ricky Nelson,Travelin' Man,1995
+175,1957,Lee Andrews And The Hearts,Teardrops,1995
+176,1961,The Cleftones,Heart And Soul,1995
+177,1957,Elvis Presley With The Jordanaires,Loving You,1995
+178,1958,The Fascinators,Chapel Bells,1995
+179,1964,Petula Clark,Downtown,1995
+180,1968,Jay And The Americans,This Magic Moment,1995
+181,1957,Sam Cooke,You Send Me,1995
+182,1962,The 4 Seasons,Big Girls Don't Cry,1995
+183,1969,The Brooklyn Bridge,Blessed Is The Rain,1995
+184,1961,Connie Francis,Where The Boys Are,1995
+185,1969,Elvis Presley,Memories,1995
+186,1962,Shelley Fabares,Johnny Angel,1995
+187,1962,Freddy Cannon,Palisades Park,1995
+188,1959,Santo And Johnny,Sleep Walk,1995
+189,1965,Simon And Garfunkel,The Sounds Of Silence,1995
+190,1960,The Drifters,This Magic Moment,1995
+191,1964,The Beatles,A Hard Day's Night,1995
+192,1958,The Shields,You Cheated,1995
+193,1965,Lou Christie,Lightnin' Strikes,1995
+194,1961,The Velvets Featuring Virgil Johnson,Tonight (Could Be The Night),1995
+195,1963,Lenny Welch,Since I Fell For You,1995
+196,1959,The Mystics [New York],Hushabye,1995
+197,1959,Dion And The Belmonts,Where Or When,1995
+198,1956,Elvis Presley,Blue Suede Shoes,1995
+199,1960,Jackie Wilson,Night,1995
+200,1964,The Dave Clark Five,Because,1995
+151,1960,Safaris,4 Steps To Love,1995
+152,1957,Jerry Lee Lewis And His Pumping Piano,You Win Again,1995
+153,1965,The Mama's And The Papa's,Somebody Groovy,1995
+154,1956,The 3 Friends,Baby I'll Cry,1995
+155,1965,The Supremes,I'm In Love Again,1995
+156,1960,Elvis Presley With The Jordanaires,A Mess Of Blues,1995
+157,1964,Martha And The Vandellas,There He Is (At My Door),1995
+158,1960,Maurice Williams And The Zodiacs,Do You Believe,1995
+159,1958,Harvey And The Moonglows,Mean Old Blues,1995
+160,1962,The Crystals,I Love You Eddie,1995
+161,1960,Buddy Holly,That Makes It Tough,1995
+162,1965,Four Tops,Sad Souvenirs,1995
+163,1957,The Five Satins,Wish I Had My Baby,1995
+164,1964,Mary Wells,Oh Little Boy (What Did You Do To Me),1995
+165,1971,Chicago,Colour My World,1995
+166,1961,The Corsairs,Thinkin' (Maybe She's Changed Her Ways),1995
+167,1958,The Aquatones,You,1995
+168,1961,Patsy Cline,Who Can I Count On,1995
+169,1967,The Turtles,Like The Seasons,1995
+170,1960,The Jesters [doowop],Sally Green,1995
+171,1962,Jive Five With Eugene Pitt,Beggin' You Please,1995
+172,1963,The 4 Seasons,Lucky Ladybug,1995
+173,1957,Connie Francis,You Were Only Fooling (While I Was Falling In Love),1995
+174,1961,Ricky Nelson,Hello Mary Lou,1995
+175,1957,Lee Andrews And The Hearts,The Girl Around The Corner,1995
+176,1961,The Cleftones,How Do You Feel,1995
+177,1957,Elvis Presley With The Jordanaires,(Let Me Be Your) Teddy Bear,1995
+178,1958,The Fascinators,I Wonder Who,1995
+179,1964,Petula Clark,You'd Better Love Me,1995
+180,1968,Jay And The Americans,Since I Don't Have You,1995
+181,1957,Sam Cooke,Summertime,1995
+182,1962,The 4 Seasons,Connie-O,1995
+183,1969,The Brooklyn Bridge,Welcome Me Love,1995
+184,1961,Connie Francis,No One,1995
+185,1969,Elvis Presley,Charro,1995
+186,1962,Shelley Fabares,Where's It Gonna Get Me?,1995
+187,1962,Freddy Cannon,"June, July, And August",1995
+188,1959,Santo And Johnny,All Night Diner,1995
+189,1965,Simon And Garfunkel,We've Got A Groovey Thing Goin',1995
+190,1960,The Drifters,Baltimore,1995
+191,1964,The Beatles,I Should Have Known Better,1995
+192,1958,The Shields,That's The Way It's Gonna Be,1995
+193,1965,Lou Christie,Cryin' In The Streets,1995
+194,1961,The Velvets Featuring Virgil Johnson,Spring Fever,1995
+195,1963,Lenny Welch,Are You Sincere,1995
+196,1959,The Mystics [New York],Adam And Eve,1995
+197,1959,Dion And The Belmonts,That's My Desire,1995
+198,1956,Elvis Presley,Tutti Frutti,1995
+199,1960,Jackie Wilson,Doggin' Around,1995
+200,1964,The Dave Clark Five,Theme Without A Name,1995
+201,1962,Marcie Blane,Bobby's Girl,1995
+202,1969,The Beatles,Something,1995
+203,1959,Paul Anka,Put Your Head On My Shoulder,1995
+204,1973,Billy Joel,Piano Man,1995
+205,1956,The Teen Queens,Eddie My Love,1995
+206,1956,The Cleftones,Little Girl Of Mine,1995
+207,1965,Jay And The Americans,Some Enchanted Evening,1995
+208,1961,The Quotations [New York],Imagination,1995
+209,1967,Van Morrison,Brown Eyed Girl,1995
+210,1960,Roy Orbison,Only The Lonely (Know The Way I Feel),1995
+211,1960,The Passions,I Only Want You,1995
+212,1958,Big Bopper,Chantilly Lace,1995
+213,1957,The Charts,Deserie,1995
+214,1970,Diana Ross,Ain't No Mountain High Enough,1995
+215,1968,Otis Redding,(Sittin' On) The Dock Of The Bay,1995
+216,1966,The Righteous Brothers,(You're My) Soul And Inspiration,1995
+217,1962,Vito And The Salutations,Gloria,1995
+218,1971,Rod Stewart,Reason To Believe,1995
+219,1977,Heatwave,Always And Forever,1995
+220,1955,Chuck Berry And His Combo,Maybellene,1995
+221,1954,The Chords [New York],Sh-boom,1995
+222,1960,Ben E. King,Spanish Harlem,1995
+223,1978,Gloria Gaynor,Substitute,1995
+224,1964,The Devotions,Rip Van Winkle,1995
+225,1963,Roy Orbison,In Dreams,1995
+226,1971,Derek And The Dominos,Layla,1995
+227,1963,Beach Boys,Surfin' U.S.A.,1995
+228,1966,Frank Sinatra,Strangers In The Night,1995
+229,1962,The Contours,Do You Love Me,1995
+230,1965,The Beach Boys,"Help Me, Rhonda",1995
+231,1958,Elvis Presley,One NightElvis Presley With The Jordanaires,1995
+232,1953,The Harp-Tones,A Sunday Kind Of Love,1995
+233,1988,The Beach Boys,KokomoLittle Richard,1995
+234,1959,The Knockouts,Darling Lorraine,1995
+235,1964,The Supremes,Baby Love,1995
+236,1965,The Beach Boys,California Girls,1995
+237,1970,Carpenters,(They Long To Be) Close To You,1995
+238,1957,The Everly Brothers,Wake Up Little Susie,1995
+239,1958,The Teddy Bears,"To Know Him, Is To Love Him",1995
+240,1964,The Beatles,Twist And Shout,1995
+241,1956,The Heartbeats [Doo Wop],A Thousand Miles Away,1995
+242,1969,The Archies,"Sugar, Sugar",1995
+243,1960,LaVern Baker,Bumble Bee,1995
+244,1970,The Partridge Family,I Think I Love You,1995
+245,1973,Marvin Gaye,Let's Get It On,1995
+246,1966,The Casinos,Then You Can Tell Me Goodbye,1995
+247,1963,Dusty Springfield,I Only Want To Be With You,1995
+248,1960,The Fendermen,Mule Skinner Blues,1995
+249,1960,The Everly Brothers,Cathy's Clown,1995
+250,1969,Neil Diamond,Sweet Caroline (Good Times Never Seemed So Good),1995
+201,1962,Marcie Blane,A Time To Dream,1995
+202,1969,The Beatles,Come Together,1995
+203,1959,Paul Anka,Don't Ever Leave Me,1995
+204,1973,Billy Joel,You're My Home,1995
+205,1956,The Teen Queens,Just Goofed,1995
+206,1956,The Cleftones,You're Driving Me Mad,1995
+207,1965,Jay And The Americans,Girl,1995
+208,1961,The Quotations [New York],Ala-Men-Sy,1995
+209,1967,Van Morrison,Goodbye Baby (Baby Goodbye),1995
+210,1960,Roy Orbison,Here Comes That Song Again,1995
+211,1960,The Passions,This Is My Love,1995
+212,1958,Big Bopper,Purple People Eater Meets Witch Doctor,1995
+213,1957,The Charts,Zoop,1995
+214,1970,Diana Ross,Can't It Wait Until Tomorrow,1995
+215,1968,Otis Redding,Sweet Lorene,1995
+216,1966,The Righteous Brothers,B Side Blues,1995
+217,1962,Vito And The Salutations,Let's Untwist The Twist,1995
+218,1971,Rod Stewart,Maggie May,1995
+219,1977,Heatwave,Super Soul Sister,1995
+220,1955,Chuck Berry And His Combo,Wee Wee Hours,1995
+221,1954,The Chords [New York],Little Maiden,1995
+222,1960,Ben E. King,First Taste Of Love,1995
+223,1978,Gloria Gaynor,I Will Survive,1995
+224,1964,The Devotions,(I Love You) For Sentimental Reasons,1995
+225,1963,Roy Orbison,Shahdaroba,1995
+226,1971,Derek And The Dominos,I Am Yours,1995
+227,1963,Beach Boys,Shut Down,1995
+228,1966,Frank Sinatra,"Oh, You Crazy Moon",1995
+229,1962,The Contours,Move Mr. Man,1995
+230,1965,The Beach Boys,"Kiss Me, Baby",1995
+231,1958,Elvis Presley,I Got Stung,1995
+232,1953,The Harp-Tones,I'll Never Tell,1995
+233,1988,The Beach Boys,Tutti Frutti,1995
+234,1959,The Knockouts,Riot In Room 3C,1995
+235,1964,The Supremes,Ask Any Girl,1995
+236,1965,The Beach Boys,Let Him Run Wild,1995
+237,1970,Carpenters,I Kept On Loving You,1995
+238,1957,The Everly Brothers,Maybe Tomorrow,1995
+239,1958,The Teddy Bears,Don't You Worry My Little Pet,1995
+240,1964,The Beatles,There's A Place,1995
+241,1956,The Heartbeats [Doo Wop],Oh Baby Don't,1995
+242,1969,The Archies,Melody Hill,1995
+243,1960,LaVern Baker,My Time Will Come,1995
+244,1970,The Partridge Family,Somebody Wants To Love You,1995
+245,1973,Marvin Gaye,I Wish It Would Rain,1995
+246,1966,The Casinos,I Still Love You,1995
+247,1963,Dusty Springfield,Once Upon A Time,1995
+248,1960,The Fendermen,Torture,1995
+249,1960,The Everly Brothers,Always It's You,1995
+250,1969,Neil Diamond,Dig In,1995
+252,1966,Isley Brothers,This Old Heart Of Mine (Is Weak For You),1995
+253,1965,The Righteous Brothers,Ebb Tide,1995
+254,1963,The Angels,My Boyfriend's Back,1995
+255,1957,Johnnie And Joe,Over The Mountain Across The Sea,1995
+256,1965,The 4 Seasons,Let's Hang On!,1995
+257,1968,The Foundations,Build Me Up Buttercup,1995
+258,1964,The Beatles,Please Please Me,1995
+259,1963,Jay And The Americans,Only In America,1995
+260,1958,Conway Twitty,It's Only Make Believe,1995
+261,1958,Bobby Day,Rock-In Robin,1995
+262,1981,Neil Diamond,"Hello Again (Love Theme From ""The Jazz Singer"")",1995
+263,1966,The 4 Seasons,Opus 17 (Don't You Worry 'Bout Me),1995
+264,1963,The Earls,Never,1995
+265,1966,Frank Sinatra,Summer WindFrank Sinatra With Count Basie And The Orchestra,1995
+266,1968,The Monkees,Valleri,1995
+267,1958,The Coasters,Yakety Yak,1995
+268,1967,Procol Harum,A Whiter Shade Of Pale,1995
+269,1963,Martha And The Vandellas,Heat Wave,1995
+270,1980,John Lennon,(Just Like) Starting OverYoko Ono,1995
+271,1957,Buddy Knox With The Rhythm Orchids,Party Doll,1995
+272,1960,Bobby Rydell,Volare,1995
+273,1967,The Association,Never My Love,1995
+274,1969,The Beatles,Something,1995
+275,1964,The Beach Boys,I Get Around,1995
+276,1965,Bobby Vinton,Long Lonely Nights,1995
+277,1969,Spiral Starecase,More Today Than Yesterday,1995
+278,1981,Kenny Rogers,Through The Years,1995
+279,1963,Vito And The Salutations,Unchained Melody,1995
+280,1962,Ruby And The Romantics,Our Day Will Come,1995
+281,1958,The Everly Brothers,All I Have To Do Is Dream,1995
+282,1969,The Brooklyn Bridge,Blessed Is The Rain,1995
+283,1968,The Beatles,Hey Jude,1995
+284,1970,Badfinger,No Matter What,1995
+285,1969,Zager And Evans,In The Year 2525 (Exordium & Terminus),1995
+286,1959,Johnny Mathis,Misty,1995
+287,1961,"The Chimes [60s, Brooklyn]",Only Love,1995
+288,1979,Neil Diamond,September Morn',1995
+289,1968,Bobby Goldsboro,Honey,1995
+290,1970,Smokey Robinson And The Miracles,The Tears Of A Clown,1995
+291,1958,Bobby Darin,Splish Splash,1995
+292,1967,Lulu,The Boat That I Row,1995
+293,1967,The Young Rascals,Groovin',1995
+294,1962,Jay And The Americans,Dawning,1995
+295,1968,Marvin Gaye,I Heard It Through The Grapevine,1995
+296,1961,Gene Pitney,Town Without Pity,1995
+297,1966,? (Question Mark) And The Mysterians,96 Tears,1995
+298,1966,Jimmy Ruffin,What Becomes Of The Brokenhearted,1995
+299,1964,The Beatles,I Want To Hold Your Hand,1995
+300,1991,Natalie Cole (With Nat King Cole),UnforgettableNatalie Cole,1995
+252,1966,Isley Brothers,There's No Love Left,1995
+253,1965,The Righteous Brothers,(I Love You) For Sentimental Reasons,1995
+254,1963,The Angels,(Love Me) Now,1995
+255,1957,Johnnie And Joe,"My Baby's Gone, On, On",1995
+256,1965,The 4 Seasons,On Broadway Tonight,1995
+257,1968,The Foundations,New Direction,1995
+258,1964,The Beatles,From Me To You,1995
+259,1963,Jay And The Americans,My Clair De Lune,1995
+260,1958,Conway Twitty,I'll Try,1995
+261,1958,Bobby Day,Over And Over,1995
+262,1981,Neil Diamond,Amazed And Confused,1995
+263,1966,The 4 Seasons,Beggars' Parade,1995
+264,1963,The Earls,I Keep A Tellin' You,1995
+265,1966,Frank Sinatra,You Make Me Feel So Young,1995
+266,1968,The Monkees,Tapioca Tundra,1995
+267,1958,The Coasters,Zing! Went The Strings Of My Heart,1995
+268,1967,Procol Harum,Lime Street Blues,1995
+269,1963,Martha And The Vandellas,A Love Like Yours (Don't Come Knocking Everyday),1995
+270,1980,John Lennon,Kiss Kiss Kiss,1995
+271,1957,Buddy Knox With The Rhythm Orchids,My Baby's Gone,1995
+272,1960,Bobby Rydell,I'd Do It Again,1995
+273,1967,The Association,Requiem For The Masses,1995
+274,1969,The Beatles,Come Together,1995
+275,1964,The Beach Boys,Don't Worry Baby,1995
+276,1965,Bobby Vinton,Satin,1995
+277,1969,Spiral Starecase,Broken-Hearted Man,1995
+278,1981,Kenny Rogers,So In Love With You,1995
+279,1963,Vito And The Salutations,"Hey, Hey, Baby",1995
+280,1962,Ruby And The Romantics,Moonlight And Music,1995
+281,1958,The Everly Brothers,Claudette,1995
+282,1969,The Brooklyn Bridge,Welcome Me Love,1995
+283,1968,The Beatles,Revolution,1995
+284,1970,Badfinger,Carry On Till Tomorrow,1995
+285,1969,Zager And Evans,Little Kids,1995
+286,1959,Johnny Mathis,The Story Of Our Love,1995
+287,1961,"The Chimes [60s, Brooklyn]",I'm In The Mood For Love,1995
+288,1979,Neil Diamond,I'm A Believer,1995
+289,1968,Bobby Goldsboro,Danny,1995
+290,1970,Smokey Robinson And The Miracles,Promise Me,1995
+291,1958,Bobby Darin,"Judy, Don't Be Moody",1995
+292,1967,Lulu,To Sir With Love,1995
+293,1967,The Young Rascals,Sueño,1995
+294,1962,Jay And The Americans,She Cried,1995
+295,1968,Marvin Gaye,You're What's Happening (In The World Today),1995
+296,1961,Gene Pitney,Air Mail Special Delivery,1995
+297,1966,? (Question Mark) And The Mysterians,Midnight Hour,1995
+298,1966,Jimmy Ruffin,Baby I've Got It,1995
+299,1964,The Beatles,I Saw Her Standing There,1995
+300,1991,Natalie Cole (With Nat King Cole),Cottage For Sale,1995
+301,1963,The Crystals,Then He Kissed Me,1995
+302,1959,The Skyliners,It Happened Today,1995
+303,1964,The Beatles,A Hard Day's Night,1995
+304,1967,The Young Rascals,How Can I Be Sure,1995
+305,1964,The Zombies,Tell Her No,1995
+306,1956,The Six Teens,A Casual Look,1995
+307,1965,Bob Lind,Cheryl's Goin' Home,1995
+308,1973,John Lennon,Mind Games,1995
+309,1962,Little Eva,The Loco-Motion,1995
+310,1973,Jim Croce,Time In A Bottle,1995
+311,1960,The Paradons,Diamonds And Pearls,1995
+312,1955,Moonglows,Most Of All,1995
+313,1975,Bruce Springsteen,Born To Run,1995
+314,1965,The Miracles,The Tracks Of My Tears,1995
+315,1958,Ed Townsend,For Your Love,1995
+316,1970,The Beatles,The Long And Winding Road,1995
+317,1970,The Grass Roots,Temptation Eyes,1995
+318,1960,Brenda Lee,I'm Sorry,1995
+319,1968,Elvis Presley,If I Can Dream,1995
+320,1964,J. Frank Wilson And The Cavaliers,Last Kiss,1995
+321,1966,The Beatles,Michelle,1995
+322,1964,The Searchers,Needles And Pins,1995
+323,1975,Kenny Vance,Looking For An Echo,1995
+324,1966,The Supremes,You Can't Hurry Love,1995
+325,1963,Lesley Gore,You Don't Own Me,1995
+326,1958,The Monotones,Book Of Love,1995
+327,1966,Four Tops,Reach Out I'll Be There,1995
+328,1958,The Flamingos,Lovers Never Say Goodbye,1995
+329,1958,Lee Andrews And The Hearts,Try The Impossible,1995
+330,1968,Creedence Clearwater Revival,Proud Mary,1995
+331,1971,Marvin Gaye,What's Going On,1995
+332,1957,The Channels,That's My Desire,1995
+333,1958,Ricky Nelson,Poor Little Fool,1995
+334,1964,The Beach Boys,I Get Around,1995
+335,1961,Don And Juan,What's Your Name,1995
+336,1966,The Temptations,Ain't Too Proud To Beg,1995
+337,1967,The Beatles,Strawberry Fields Forever,1995
+338,1957,The Harptones,The Shrine Of St. Cecilia,1995
+339,1965,Bob Dylan,Like A Rolling Stone,1995
+340,1960,Dion And The Belmonts,In The Still Of The Night,1995
+341,1960,Jimmy Charles And The Revelletts,A Million To One,1995
+342,1957,The Crickets,That'll Be The Day,1995
+343,1965,The Toys,A Lover's Concerto,1995
+344,1970,John Ono Lennon (With The Plastic Ono Band),Instant Karma (We All Shine On)Yoko Ono Lennon (With The Plastic Ono Band),1995
+345,1965,The Miracles,Ooo Baby Baby,1995
+346,1961,The Tokens,Tonight I Fell In Love,1995
+347,1966,The Monkees,I'm A Believer,1995
+348,1956,Clyde McPhatter,Treasure Of Love,1995
+349,1966,The Beach Boys,Sloop John B,1995
+350,1958,The Videos,"Trickle, Trickle",1995
+301,1963,The Crystals,Brother Julius,1995
+302,1959,The Skyliners,Lonely Way,1995
+303,1964,The Beatles,I Should Have Known Better,1995
+304,1967,The Young Rascals,I'm So Happy Now,1995
+305,1964,The Zombies,Leave Me Be,1995
+306,1956,The Six Teens,Teen Age Promise,1995
+307,1965,Bob Lind,Elusive Butterfly,1995
+308,1973,John Lennon,Meat City,1995
+309,1962,Little Eva,He Is The Boy,1995
+310,1973,Jim Croce,Hard Time Losin' Man,1995
+311,1960,The Paradons,I Want Love,1995
+312,1955,Moonglows,She's Gone,1995
+313,1975,Bruce Springsteen,Meeting Across The River,1995
+314,1965,The Miracles,Fork In The Road,1995
+315,1958,Ed Townsend,Over And Over Again,1995
+316,1970,The Beatles,For You Blue,1995
+317,1970,The Grass Roots,Keepin' Me Down,1995
+318,1960,Brenda Lee,Thats All You Gotta Do,1995
+319,1968,Elvis Presley,Edge Of Reality,1995
+320,1964,J. Frank Wilson And The Cavaliers,That's How Much I Love You,1995
+321,1966,The Beatles,Girl,1995
+322,1964,The Searchers,Ain't That Just Like Me,1995
+323,1975,Kenny Vance,In Each Others Arms,1995
+324,1966,The Supremes,Put Yourself In My Place,1995
+325,1963,Lesley Gore,"Run Bobby, Run",1995
+326,1958,The Monotones,You Never Loved Me,1995
+327,1966,Four Tops,Until You Love Someone,1995
+328,1958,The Flamingos,That Love Is You,1995
+329,1958,Lee Andrews And The Hearts,Nobody's Home,1995
+330,1968,Creedence Clearwater Revival,Born On The Bayou,1995
+331,1971,Marvin Gaye,God Is Love,1995
+332,1957,The Channels,Stay As You Are,1995
+333,1958,Ricky Nelson,Don't Leave Me This Way,1995
+334,1964,The Beach Boys,Don't Worry Baby,1995
+335,1961,Don And Juan,Chicken Necks,1995
+336,1966,The Temptations,You'll Lose A Precious Love,1995
+337,1967,The Beatles,Penny Lane,1995
+338,1957,The Harptones,Ou Wee Baby,1995
+339,1965,Bob Dylan,Gates Of Eden,1995
+340,1960,Dion And The Belmonts,A Funny Feeling,1995
+341,1960,Jimmy Charles And The Revelletts,Hop Scotch Hop,1995
+342,1957,The Crickets,I'm Lookin' For Someone To Love,1995
+343,1965,The Toys,This Night,1995
+344,1970,John Ono Lennon (With The Plastic Ono Band),Who Has Seen The Wind?,1995
+345,1965,The Miracles,All That's Good,1995
+346,1961,The Tokens,I'll Always Love You,1995
+347,1966,The Monkees,(I'm Not Your) Steppin' Stone,1995
+348,1956,Clyde McPhatter,When You're Sincere,1995
+349,1966,The Beach Boys,You're So Good To Me,1995
+350,1958,The Videos,"Moonglow, You Know",1995
+351,1966,The Beatles,Paperback Writer,1995
+352,1963,Little Peggy March,I Will Follow Him,1995
+353,1957,The Dubs,Don't Ask Me (To Be Lonely),1995
+354,1970,Badfinger,Come And Get It,1995
+355,1960,The Skyliners,Pennies From Heaven,1995
+356,1968,The Grass Roots,Midnight Confessions,1995
+357,1969,Tommy James And The Shondells,Crystal Blue Persuasion,1995
+358,1971,Three Dog Night,Joy To The World,1995
+359,1961,Roy Orbison,Running Scared,1995
+360,1966,Swingin' Medallions,Double Shot (Of My Baby's Love),1995
+361,1982,Barbra Streisand,Memory,1995
+362,1967,The Monkees,Daydream Believer,1995
+363,1963,The Rivieras [Indiana],California Sun,1995
+364,1989,Bette Midler,Wind Beneath My Wings,1995
+365,1968,The Union Gap Featuring Gary Puckett,Young Girl,1995
+366,1963,The Chiffons,He's So Fine,1995
+367,1965,Sam The Sham And The Pharaohs,Wooly Bully,1995
+368,1978,Village People,Y.M.C.A.,1995
+369,1957,Jerry Lee Lewis,Whole Lot Of Shakin' Going On,1995
+370,1968,Simon And Garfunkel,Mrs. Robinson,1995
+371,1963,The Surfaris,Wipe Out,1995
+372,1959,The Fireflies,You Were Mine,1995
+373,1965,The Beach Boys,Barbara Ann,1995
+374,1957,The Everly Brothers,Bye Bye Love,1995
+375,1963,Dion (Di Muci),Donna The Prima Donna,1995
+376,1959,The Everly Brothers,Let It Be Me,1995
+377,1966,The Happenings,See You In September,1995
+378,1973,Gladys Knight And The Pips,Midnight Train To Georgia,1995
+379,1964,The Beach Boys,"Fun, Fun, Fun",1995
+380,1965,The Moody Blues,Go Now!,1995
+381,1961,Ernie K-Doe,Mother-In-Law,1995
+382,1969,The 5th Dimension,Medle,1995
+383,1958,The Crickets,Maybe Baby,1995
+384,1955,Al Hibbler,Unchained Melody,1995
+385,1963,Four Seasons,Candy Girl,1995
+386,1982,The Four Tops,Sad Hearts,1995
+387,1977,Eagles,Hotel California,1995
+388,1963,Jan And Dean,Surf City,1995
+389,1964,Dean Martin,Everybody Loves Somebody,1995
+390,1954,The Diablos Featuring Nolan Strong,"Baby, Be Mine",1995
+391,1974,Paper Lace,The Night Chicago Died,1995
+392,1962,Mr. Acker Bilk,Stranger On The Shore,1995
+393,1960,Neil Sedaka,Calendar Girl,1995
+394,1966,The Beatles,Michelle,1995
+395,1965,Barry McGuire,Eve Of Destruction,1995
+396,1966,The 4 Seasons,I've Got You Under My Skin,1995
+397,1967,The Association,Windy,1995
+398,1970,Elton John,Your Song,1995
+399,1964,The Supremes,Where Did Our Love Go,1995
+400,1959,The Impalas,Sorry (I Ran All The Way Home),1995
+351,1966,The Beatles,Rain,1995
+352,1963,Little Peggy March,Wind-Up Doll,1995
+353,1957,The Dubs,Darling,1995
+354,1970,Badfinger,Rock Of All Ages,1995
+355,1960,The Skyliners,I'll Be Seeing You,1995
+356,1968,The Grass Roots,Who Will You Be Tomorrow,1995
+357,1969,Tommy James And The Shondells,I'm Alive,1995
+358,1971,Three Dog Night,I Can Hear You Calling,1995
+359,1961,Roy Orbison,Love Hurts,1995
+360,1966,Swingin' Medallions,Here It Comes Again,1995
+361,1982,Barbra Streisand,"Evergreen (Love Theme From ""A Star Is Born"")",1995
+362,1967,The Monkees,Goin' Down,1995
+363,1963,The Rivieras [Indiana],H B Goose Step,1995
+364,1989,Bette Midler,Oh Industry,1995
+365,1968,The Union Gap Featuring Gary Puckett,I'm Losing You,1995
+366,1963,The Chiffons,Oh My Lover,1995
+367,1965,Sam The Sham And The Pharaohs,Ain't Gonna Move,1995
+368,1978,Village People,The Women,1995
+369,1957,Jerry Lee Lewis,It'll Be Me,1995
+370,1968,Simon And Garfunkel,Old Friends / Bookends,1995
+371,1963,The Surfaris,Surfer Joe,1995
+372,1959,The Fireflies,Stella Got A Fella,1995
+373,1965,The Beach Boys,Girl Don't Tell Me,1995
+374,1957,The Everly Brothers,I Wonder If I Care As Much,1995
+375,1963,Dion (Di Muci),You're Mine,1995
+376,1959,The Everly Brothers,Since You Broke My Heart,1995
+377,1966,The Happenings,He Thinks He's A Hero,1995
+378,1973,Gladys Knight And The Pips,Midnight Train To Georgia (Instrumental),1995
+379,1964,The Beach Boys,Why Do Fools Fall In Love,1995
+380,1965,The Moody Blues,Lose Your Money,1995
+381,1961,Ernie K-Doe,"Wanted, $10,000.00 Reward",1995
+382,1969,The 5th Dimension,Aquarius / Let The Sunshine In (The Flesh Failures)B,1995
+383,1958,The Crickets,Tell Me How,1995
+384,1955,Al Hibbler,Daybreak,1995
+385,1963,Four Seasons,Marlena,1995
+386,1982,The Four Tops,I Believe In You And Me,1995
+387,1977,Eagles,Pretty Maids All In A Row,1995
+388,1963,Jan And Dean,She's My Summer Girl,1995
+389,1964,Dean Martin,A Little Voice,1995
+390,1954,The Diablos Featuring Nolan Strong,The Wind,1995
+391,1974,Paper Lace,Can You Get It When You Want It,1995
+392,1962,Mr. Acker Bilk,Cielito Lindo,1995
+393,1960,Neil Sedaka,The Same Old Fool,1995
+394,1966,The Beatles,Girl,1995
+395,1965,Barry McGuire,What Exactly's The Matter With Me,1995
+396,1966,The 4 Seasons,Huggin' My Pillow,1995
+397,1967,The Association,Sometime,1995
+398,1970,Elton John,Take Me To The Pilot,1995
+399,1964,The Supremes,He Means The World To Me,1995
+400,1959,The Impalas,"Fool, Fool, Fool",1995
+401,1962,The Cascades,Rhythm Of The Rain,1995
+402,1968,Tommy James And The Shondells,Mony Mony,1995
+403,1955,The Harptones,Life Is But A Dream,1995
+404,1962,Neil Sedaka,Breaking Up Is Hard To Do,1995
+405,1967,Jackie Wilson,(Your Love Keeps Lifting Me) Higher And Higher,1995
+406,1957,The Tune Weavers,"Happy, Happy Birthday BabyPaul Gayten",1995
+407,1966,The Troggs,Wild Thing,1995
+408,1974,The Stylistics,You Make Me Feel Brand New,1995
+409,1961,Curtis Lee,Pretty Little Angel Eyes,1995
+410,1958,The Fidelity's,The Things I Love,1995
+411,1960,The Crests,Step By Step,1995
+412,1954,Joe Turner And His Blues Kings,"Shake, Rattle And Roll",1995
+413,1961,Timi Yuro,Hurt,1995
+414,1964,The 4 Seasons,Ronnie,1995
+415,1974,Barry Manilow,Mandy,1995
+416,1961,Gene McDaniels,A Hundred Pounds Of Clay,1995
+417,1964,The Beatles,And I Love Her,1995
+418,1972,Looking Glass,Brandy (You're A Fine Girl),1995
+419,1965,Billy Stewart,I Do Love You,1995
+420,1964,Billy J. Kramer With The Dakotas,Bad To Me,1995
+421,1969,The Rolling Stones,Honky Tonk Women,1995
+422,1981,Neil Diamond,America,1995
+423,1972,The Stylistics,I'm Stone In Love With You,1995
+424,1969,Oliver,Good Morning Starshine,1995
+425,1963,Bobby Vinton,Blue Velvet,1995
+426,1960,Cathy Jean And The Roommates,Please Love Me ForeverCathy Jean And Charley Macey On Guitar,1995
+427,1974,Pilot,Magic,1995
+428,1956,Johnny Mathis,Wonderful! Wonderful!,1995
+429,1981,John Lennon,Watching The WheelsYoko Ono,1995
+430,1963,"Peter, Paul And Mary",Blowin' In The Wind,1995
+431,1966,The Beatles,Nowhere Man,1995
+432,1963,Chantay's,Pipeline,1995
+433,1972,Don McLean,Vincent,1995
+434,1964,Jay And The Americans,Come A Little Bit Closer,1995
+435,1963,The Dave Clark Five,Glad All Over,1995
+436,1959,Connie Francis,God Bless America,1995
+437,1966,The Beatles,Yellow Submarine,1995
+438,1964,The Dave Clark Five,Any Way You Want It,1995
+439,1973,The Rolling Stones,Angie,1995
+440,1959,The Clovers,Love Potion No. 9,1995
+441,1956,The Platters,(You've Got) The Magic Touch,1995
+442,1960,The Ventures,Walk – Don't Run,1995
+443,1969,The Guess Who?,These Eyes,1995
+444,1977,Bee Gees,Stayin' Alive,1995
+445,1959,Johnny Preston,Running Bear,1995
+446,1955,The Cadillacs,Speedoo,1995
+447,1971,Climax,Precious And Few,1995
+448,1959,The Coasters,Poison Ivy,1995
+449,1956,The Five Keys,"Out Of Sight, Out Of Mind",1995
+450,1970,George Harrison,My Sweet Lord,1995
+401,1962,The Cascades,Let Me Be,1995
+402,1968,Tommy James And The Shondells,One Two Three And I Fell,1995
+403,1955,The Harptones,You Know You're Doing Me Wrong,1995
+404,1962,Neil Sedaka,As Long As I Live,1995
+405,1967,Jackie Wilson,I'm The One To Do It,1995
+406,1957,The Tune Weavers,Yo Yo Walk,1995
+407,1966,The Troggs,With A Girl Like You,1995
+408,1974,The Stylistics,Only For The Children,1995
+409,1961,Curtis Lee,Gee How I Wish You Were Here,1995
+410,1958,The Fidelity's,Hold On To What'Cha Got (And Get One More),1995
+411,1960,The Crests,Gee (But I'd Give The World),1995
+412,1954,Joe Turner And His Blues Kings,You Know I Love You,1995
+413,1961,Timi Yuro,I Apologize,1995
+414,1964,The 4 Seasons,Born To Wander,1995
+415,1974,Barry Manilow,Something's Comin' Up,1995
+416,1961,Gene McDaniels,Come On Take A Chance,1995
+417,1964,The Beatles,If I Fell,1995
+418,1972,Looking Glass,One By One,1995
+419,1965,Billy Stewart,Keep Loving,1995
+420,1964,Billy J. Kramer With The Dakotas,Little Children,1995
+421,1969,The Rolling Stones,You Can't Always Get What You Want,1995
+422,1981,Neil Diamond,Songs Of Life,1995
+423,1972,The Stylistics,Make It Last,1995
+424,1969,Oliver,Can't You See,1995
+425,1963,Bobby Vinton,Is There A Place (Where I Can Go),1995
+426,1960,Cathy Jean And The Roommates,Canadian Sunset,1995
+427,1974,Pilot,Just Let Me Be,1995
+428,1956,Johnny Mathis,When Sunny Gets Blue,1995
+429,1981,John Lennon,"Yes, I'm Your Angel",1995
+430,1963,"Peter, Paul And Mary",Flora,1995
+431,1966,The Beatles,Norwegian Wood (This Bird Has Flown),1995
+432,1963,Chantay's,Move It,1995
+433,1972,Don McLean,Castles In The Air,1995
+434,1964,Jay And The Americans,Goodbye Boys Goodbye (Ciao Ragazzi Ciao),1995
+435,1963,The Dave Clark Five,I Know You,1995
+436,1959,Connie Francis,Among My Souvenirs,1995
+437,1966,The Beatles,Eleanor Rigby,1995
+438,1964,The Dave Clark Five,Crying Over You,1995
+439,1973,The Rolling Stones,Silver Train,1995
+440,1959,The Clovers,Stay Awhile,1995
+441,1956,The Platters,Winner Take All,1995
+442,1960,The Ventures,Home,1995
+443,1969,The Guess Who?,Lightfoot,1995
+444,1977,Bee Gees,If I Can't Have You,1995
+445,1959,Johnny Preston,My Heart Knows,1995
+446,1955,The Cadillacs,Let Me Explain,1995
+447,1971,Climax,Park Preserve,1995
+448,1959,The Coasters,I'm A Hog For You,1995
+449,1956,The Five Keys,That's Right,1995
+450,1970,George Harrison,Isn't It A Pity,1995
+451,1961,The Belmonts,Tell Me Why,1995
+452,1965,The Seekers,I'll Never Find Another You,1995
+453,1963,Elvis Presley With The JordanairesElvis Sings - Vol. 1A,Blue HawaiiA,1995
+454,1961,The Earls,Life Is But A Dream,1995
+455,1958,Domenico Modugno,Nel Blu Dipinto Di Blu (Volaré),1995
+456,1961,The Marvelettes,Please Mr. Postman,1995
+457,1966,The Beach Boys,Wouldn't It Be Nice,1995
+458,1969,"Blood, Sweat And Tears",You've Made Me So Very Happy,1995
+459,1964,The Ronettes,Walking In The Rain,1995
+460,1967,Herman's Hermits,There's A Kind Of Hush,1995
+461,1969,Jr. Walker And The All Stars,What Does It Take (To Win Your Love),1995
+462,1958,The Champs,Train To Nowhere,1995
+463,1963,The Crystals,Da Doo Ron Ron (When He Walked Me Home),1995
+464,1961,The Regents [New York],Barbara-Ann,1995
+465,1955,The Nutmegs,Story Untold,1995
+466,1957,The Silhouettes,Get A Job,1995
+467,1961,Neil Sedaka,"Happy Birthday, Sweet Sixteen",1995
+468,1958,Jackie Wilson,To Be Loved,1995
+469,1966,The Beach Boys,Wouldn't It Be Nice,1995
+470,1964,The Reflections [Detroit],(Just Like) Romeo And Juliet,1995
+471,1975,Barry Manilow,I Write The Songs,1995
+472,1959,Mark Dinning,Teen Angel,1995
+473,1959,The Desires [Hull],Let It Please Be You,1995
+474,1965,Petula Clark,My Love,1995
+475,1980,Kenny Rogers,Lady,1995
+476,1956,Willows,Church Bells May Ring,1995
+477,1966,The Cyrkle,Red Rubber Ball,1995
+478,1965,The Dave Clark Five,Reelin' And Rockin',1995
+479,1966,The Lovin' Spoonful,Summer In The City,1995
+480,1959,Ray Charles And His Orchestra,What'd I Say (Part 1),1995
+481,1970,Dawn,Knock Three Times,1995
+482,1958,Little Anthony And The Imperials,Tears On My Pillow,1995
+483,1953,The Crows,Gee,1995
+484,1976,Lou Rawls,You'll Never Find Another Love Like Mine,1995
+485,1978,Meat Loaf,Two Out Of Three Ain't Bad,1995
+486,1969,Jay And The Americans,Walkin' In The Rain,1995
+487,1955,Fats Domino,Ain't It A Shame,1995
+488,1971,Tom Jones,She's A Lady,1995
+489,1967,Scott McKenzie,San Francisco (Be Sure To Wear Flowers In Your Hair),1995
+490,1976,Vicki Sue Robinson,Turn The Beat Around,1995
+491,1957,Crest's,My Juanita,1995
+492,1964,Manfred Mann,Do Wah Diddy Diddy,1995
+493,1965,The Beatles,Eight Days A Week,1995
+494,1965,Four Tops,It's The Same Old Song,1995
+495,1966,The Young Rascals,Good Lovin',1995
+496,1972,The Stylistics Featuring Russell Thompkins Jr.,"Betcha By Golly, Wow",1995
+497,1962,The Isley Brothers,Twist And ShoutThe I.B. Special Instrumental,1995
+498,1962,Tony Bennett,(I Left My Heart) In San Francisco,1995
+499,1974,The Three Degrees,When Will I See You Again,1995
+500,1966,The Outsiders [USA],Time Won't Let Me,1995
+451,1961,The Belmonts,Smoke From Your Cigarette,1995
+452,1965,The Seekers,Open Up Them Pearly Gates,1995
+453,1963,Elvis Presley With The JordanairesElvis Sings - Vol. 1A,No MoreB1,1995
+454,1961,The Earls,It's You,1995
+455,1958,Domenico Modugno,Mariti In Citta,1995
+456,1961,The Marvelettes,So Long Baby,1995
+457,1966,The Beach Boys,God Only Knows,1995
+458,1969,"Blood, Sweat And Tears",Blues - Part II,1995
+459,1964,The Ronettes,How Does It Feel?,1995
+460,1967,Herman's Hermits,No Milk Today,1995
+461,1969,Jr. Walker And The All Stars,Brainwasher (Part 1),1995
+462,1958,The Champs,Tequila,1995
+463,1963,The Crystals,Git' It,1995
+464,1961,The Regents [New York],I'm So Lonely,1995
+465,1955,The Nutmegs,Make Me Lose My Mind,1995
+466,1957,The Silhouettes,I Am Lonely,1995
+467,1961,Neil Sedaka,Don't Lead Me On,1995
+468,1958,Jackie Wilson,Come Back To Me,1995
+469,1966,The Beach Boys,God Only Knows,1995
+470,1964,The Reflections [Detroit],Can't You Tell By The Look In My Eyes,1995
+471,1975,Barry Manilow,A Nice Boy Like Me,1995
+472,1959,Mark Dinning,Bye Now Baby,1995
+473,1959,The Desires [Hull],Hey Lena,1995
+474,1965,Petula Clark,Where Am I Going,1995
+475,1980,Kenny Rogers,Sweet Music Man,1995
+476,1956,Willows,Baby Tell Me,1995
+477,1966,The Cyrkle,How Can I Leave Her,1995
+478,1965,The Dave Clark Five,I'm Thinking,1995
+479,1966,The Lovin' Spoonful,Butchie's Tune,1995
+480,1959,Ray Charles And His Orchestra,What'd I Say (Part 2),1995
+481,1970,Dawn,Home,1995
+482,1958,Little Anthony And The Imperials,Two People In The World,1995
+483,1953,The Crows,I Love You So,1995
+484,1976,Lou Rawls,Let's Fall In Love All Over Again,1995
+485,1978,Meat Loaf,For Crying Out Loud,1995
+486,1969,Jay And The Americans,(I'd Kill) For The Love Of A Lady,1995
+487,1955,Fats Domino,La-La,1995
+488,1971,Tom Jones,My Way,1995
+489,1967,Scott McKenzie,What's The Difference,1995
+490,1976,Vicki Sue Robinson,Lack Of Respect,1995
+491,1957,Crest's,Sweetest One,1995
+492,1964,Manfred Mann,What You Gonna Do?,1995
+493,1965,The Beatles,I Don't Want To Spoil The Party,1995
+494,1965,Four Tops,Your Love Is Amazing,1995
+495,1966,The Young Rascals,Mustang Sally,1995
+496,1972,The Stylistics Featuring Russell Thompkins Jr.,Ebony Eyes,1995
+497,1962,The Isley Brothers,Spanish Twist,1995
+498,1962,Tony Bennett,Once Upon A Time,1995
+499,1974,The Three Degrees,Year Of Decision,1995
+500,1966,The Outsiders [USA],Was It Really Real,1995
